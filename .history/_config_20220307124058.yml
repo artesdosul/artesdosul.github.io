@@ -12,14 +12,14 @@ title: Artes do Sul
 description: Criando soluções e espalhando a mensagem do Único Mestre
 
 # GitHub Actions
-repository: "artesdosul/artesdosul.github.io"
+repository: "araguaci/araguaci.github.io"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: artesdosul
+author: Araguaci
 
 # --- List of links in the navigation bar --- #
 
@@ -182,9 +182,9 @@ footer-link-col: "#404040"
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
 staticman:
-  repository : artesdosul/artesdosul.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : araguaci/araguaci.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : gh-pages # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : https://artesdosul.github.io # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+  endpoint   : https://araguaci.github.io # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
