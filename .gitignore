@@ -2,6 +2,8 @@
 _site
 .sass-cache
 .vagrant
+.history
+.vscode
 
 # general
 .DS_Store
