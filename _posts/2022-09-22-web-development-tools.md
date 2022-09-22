@@ -21,6 +21,8 @@ As ferramentas e recursos abaixo estão listados em nenhuma ordem específica.
 
 ## Bibliotecas JavaScript
 
+![ ](/assets/img/banner-javascript-libraries.webp)
+
 O JavaScript é uma das linguagens de programação mais populares da web. UMA **Biblioteca JavaScript** é uma biblioteca de JavaScript pré-escrito que permite um acesso mais fácil ao longo do desenvolvimento do seu site ou aplicativo. Por exemplo, você pode incluir uma cópia da biblioteca jQuery hospedada do Google usando o seguinte snippet.
 
 *   [jQuery](http://jquery.com): A fast, small, and feature-rich JavaScript library.
@@ -38,6 +40,8 @@ O JavaScript é uma das linguagens de programação mais populares da web. UMA *
 *   [Vue.js](https://vuejs.org): Uma estrutura JavaScript de código aberto usada para criar interfaces de usuário.
 
 ## Estruturas front-end
+
+![ ](/assets/img/front-end-frameworks-banner.webp)
 
 **Frontend frameworks** geralmente consiste em um pacote composto por outros arquivos e pastas, como HTML, CSS, JavasScript etc. Existem também muitas estruturas independentes por aí. Somos um grande fã do Boostrap e o principal site do KeyCDN é construído nele. Uma estrutura sólida pode ser uma ferramenta essencial para desenvolvedores de front-end.
 
@@ -202,25 +206,26 @@ O servidor da web que você acaba usando geralmente depende de uma combinação 
 
 Os desenvolvedores da Web geralmente lidam com APIs diariamente. Eles são essenciais no ambiente atual de desenvolvimento da web, no entanto, às vezes pode ser difícil de lidar em termos de monitoramento, criação ou combinação. Felizmente, existem várias ferramentas disponíveis para tornar o trabalho com APIs muito mais eficiente.
 
-*   [Runscope](https://www.runscope.com): An API performance testing, monitoring, and debugging solution.
-*   [Zapier](https://zapier.com): Connect the APIs of various apps and services in order to automate workflows and enable automation.
-*   [Postman](https://www.getpostman.com): Complete API development environment. Everything from designing, testing, monitoring, and publishing.
-*   [SoapUI](https://www.soapui.org): Advanced REST and SOAP testing tool. Ability to perform functional testing, security testing, performance testing, etc.
+*   [Runscope](https://www.runscope.com): Uma solução de teste, monitoramento e depuração de desempenho da API.
 
-Local dev environments[#](#local-dev-environments)
+*   [Zapier](https://zapier.com): Conecte as APIs de vários aplicativos e serviços para automatizar fluxos de trabalho e permitir a automação.
+*   [Postman](https://www.getpostman.com): Ambiente completo de desenvolvimento de API. Tudo, desde o design, teste, monitoramento e publicação.
 
+*   [SoapUI](https://www.soapui.org): Ferramenta avançada de teste REST e SOAP. Capacidade de executar testes funcionais, testes de segurança, testes de desempenho, etc.
 
-------------------------------------------------------
+## Ambientes locais de desenvolvimento
 
-Depending upon what OS you are running or the computer you currently have access to, it might be necessary to launch a quick **local dev environment**. There are a lot of free utilities that bundle Apache, mySQL, phpmyAdmin, etc. all together. This can be a quick way to test something on your local machine. A lot of them even have portable versions.
+Dependendo do sistema operacional em que você está executando ou do computador ao qual você tem acesso atualmente, pode ser necessário iniciar um rápido ambiente local (**local dev environment**). Existem muitos utilitários gratuitos que agrupam Apache, mySQL, phpmyAdmin etc. todos juntos. Essa pode ser uma maneira rápida de testar algo em sua máquina local. Muitos deles têm versões portáteis.
 
-*   [XAMPP](https://www.apachefriends.org/index.html): Completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
-*   [MAMP](https://www.mamp.info/en/): Local server environment in a matter of seconds on OS X or Windows.
-*   [WampServer](http://www.wampserver.com/en/): Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database.
-*   [Vagrant](https://www.vagrantup.com): Create and configure lightweight, reproducible, and portable development environments.
-*   [Laragon](https://laragon.org): A great fast and easy way to create an isolated dev environment on Windows. Includes Mysql, PHP Memcached, Redis, Apache, and awesome for working with your Laravel projects.
+*   [XAMPP](https://www.apachefriends.org/index.html): Distribuição Apache completamente gratuita e fácil de instalar, contendo MariaDB, PHP e Perl.
 
-Diff checkers[#](#diff-checkers)
+*   [MAMP](https://www.mamp.info/en/): Ambiente do servidor local em questão de segundos no OS X ou Windows.
+*   [WampServer](http://www.wampserver.com/en/): Ambiente de desenvolvimento web do Windows. Ele permite criar aplicativos da web com Apache2, PHP e um banco de dados MySQL.
+
+*   [Vagrant](https://www.vagrantup.com): Crie e configure ambientes de desenvolvimento leves, reproduzíveis e portáteis.
+*   [Laragon](https://laragon.org): Uma ótima maneira rápida e fácil de criar um ambiente de desenvolvimento isolado no Windows. Inclui Mysql, PHP Memcached, Redis, Apache e incrível por trabalhar com seus projetos Laravel.
+
+## Verificadores de Diferenças
 
 
 ------------------------------------
