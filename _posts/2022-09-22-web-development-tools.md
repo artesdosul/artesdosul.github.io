@@ -1,252 +1,206 @@
 ---
 layout: post
-title: Web Development Tools
-subtitle: 100+ Awesome Web Development Tools and Resources
+title: Ferramentas de Desenvolvimento 
+subtitle: Mais de 100 ferramentas e recursos impressionantes de desenvolvimento da Web
 cover-img: https://www.keycdn.com/img/blog/web-development-tools.png
-thumbnail-img: /assetshttps://www.keycdn.com/img/artesdosullogo.png
-share-img: /assetshttps://www.keycdn.com/img/artesdosullogo.png
+thumbnail-img: https://www.keycdn.com/img/blog/web-development-tools.png
+share-img: https://www.keycdn.com/img/blog/web-development-tools.png
 tags: [development, resources, design]
 ---
 
-By Brian Jackson
-
-Published on August 2, 2018
-
-The best and worst thing about being a web developer is that the web is constantly changing. While this is exciting it also means that web developers must always be proactive in learning new techniques or programming languages, adapting to changes, and be willing and eager to accept new challenges. This could include tasks such as adapting existing frameworks to meet business requirements, testing a website to identify technical problems, or optimizing and scaling a site to better perform with the backend infrastructure. We thought we would compile a comprehensive list of **web development tools and resources** that can help you be more productive, stay informed, and become a better developer.
-
-Web development tools and resources[#](#web-development-tools-and-resources)
+# Mais de 100 ferramentas e recursos impressionantes de desenvolvimento da Web
 
 
---------------------------------------------------------------------------------
+A melhor e pior coisa de ser um desenvolvedor web é que a web está mudando constantemente. Embora isso seja empolgante, também significa que os desenvolvedores da web devem sempre ser proativos no aprendizado de novas técnicas ou linguagens de programação, adaptando-se às mudanças e estar dispostos e ansiosos para aceitar novos desafios. Isso pode incluir tarefas como adaptar estruturas existentes para atender aos requisitos de negócios, testar um site para identificar problemas técnicos ou otimizar e dimensionar um site para melhor desempenho com a infraestrutura de back-end. Nós pensamos em compilar uma lista abrangente de **ferramentas e recursos de desenvolvimento web** isso pode ajudá-lo a ser mais produtivo, manter-se informado e se tornar um desenvolvedor melhor.
 
-A lot of these web development tools below are ones we use at KeyCDN on a daily basis. We can't include everything, but here are a couple of our favorites and other widely used ones. Hopefully, you find a new tool or resource that will **aid you in your development workflow**. The tools and resources below are listed in no particular order.
-
-JavaScript libraries[#](#javascript-libraries)
+## Ferramentas e recursos de desenvolvimento da Web 
 
 
---------------------------------------------------
+Muitas dessas ferramentas de desenvolvimento da web abaixo são aquelas que usamos no KeyCDN diariamente. Não podemos incluir tudo, mas aqui estão alguns dos nossos favoritos e outros amplamente utilizados. Felizmente, você encontra uma nova ferramenta ou recurso que o ira **ajudá-lo em seu fluxo de trabalho de desenvolvimento**.
+As ferramentas e recursos abaixo estão listados em nenhuma ordem específica.
 
-JavaScript is one of the most popular programming languages on the web. A **JavaScript library** is a library of pre-written JavaScript which allows easier access throughout the development of your website or application. For example, you can include a copy of Google's hosted jQuery library by using the following snippet.
+## Bibliotecas JavaScript
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+O JavaScript é uma das linguagens de programação mais populares da web. UMA **Biblioteca JavaScript** é uma biblioteca de JavaScript pré-escrito que permite um acesso mais fácil ao longo do desenvolvimento do seu site ou aplicativo. Por exemplo, você pode incluir uma cópia da biblioteca jQuery hospedada do Google usando o seguinte snippet.
 
 *   [jQuery](http://jquery.com): A fast, small, and feature-rich JavaScript library.
-*   [BackBoneJS](http://backbonejs.org): Give your JS app some backbone with models, views, collections, & events.
-*   [D3.js](http://d3js.org): A JavaScript library for manipulating documents based on data.
-*   [React](https://reactjs.org): Facebook's JavaScript library developed for building user interfaces.
-*   [jQuery UI](http://jqueryui.com): A curated set of user interface interactions, effects, widgets, and themes.
-*   [jQuery Mobile](http://jquerymobile.com): HTML5-based user interface system designed to make responsive web sites.
-*   [Underscore.js](http://underscorejs.org): Functional programming helpers without extending any built-in objects.
-*   [Moment.js](http://momentjs.com): Parse, validate, manipulate, and display dates in JavaScript.
-*   [Lodash](https://lodash.com): A modern utility library delivering modularity, performance, & extras.
-*   [Vue.js](https://vuejs.org): An open source JavaScript framework used for building user interfaces.
+´´´
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+´´´
+*   [BackBoneJS](http://backbonejs.org): Dê ao seu aplicativo JS uma espinha dorsal com modelos, visualizações, coleções e eventos.
+*   [D3.js](http://d3js.org):Uma biblioteca JavaScript para manipular documentos com base em dados.
+*   [React](https://reactjs.org): Biblioteca JavaScript do Facebook desenvolvida para criar interfaces de usuário.
+*   [jQuery UI](http://jqueryui.com): Um conjunto com curadoria de interações, efeitos, widgets e temas da interface do usuário.
+*   [jQuery Mobile](http://jquerymobile.com): Sistema de interface de usuário baseado em HTML5 projetado para criar sites responsivos.
+*   [Underscore.js](http://underscorejs.org): Ajudantes de programação funcional sem estender nenhum objeto embutido.
+*   [Moment.js](http://momentjs.com): Analise, valide, manipule e exiba datas em JavaScript.
+*   [Lodash](https://lodash.com): Uma moderna biblioteca de utilitários que oferece modularidade, desempenho e extras.
+*   [Vue.js](https://vuejs.org): Uma estrutura JavaScript de código aberto usada para criar interfaces de usuário.
 
-Frontend frameworks[#](#frontend-frameworks)
+## Estruturas front-end
 
+**Frontend frameworks** geralmente consiste em um pacote composto por outros arquivos e pastas, como HTML, CSS, JavasScript etc. Existem também muitas estruturas independentes por aí. Somos um grande fã do Boostrap e o principal site do KeyCDN é construído nele. Uma estrutura sólida pode ser uma ferramenta essencial para desenvolvedores de front-end.
 
-------------------------------------------------
+*   [Bootstrap](http://getbootstrap.com): Estrutura HTML, CSS e JS para o desenvolvimento de primeiros projetos móveis responsivos na web.
+*   [Foundation](http://foundation.zurb.com): Família de estruturas de front-end responsivas que facilitam o design de sites, aplicativos e e-mails responsivos e bonitos que ficam incríveis em qualquer dispositivo.
+*   [Semantic UI](http://semantic-ui.com): Estrutura de desenvolvimento que ajuda a criar layouts bonitos e responsivos usando HTML amigável ao ser humano.
+*   [uikit](http://getuikit.com): Uma estrutura de front-end leve e modular para o desenvolvimento de interfaces da web rápidas e poderosas.
 
-**Frontend frameworks** usually consist of a package that is made up of other files and folders, such as HTML, CSS, JavasScript, etc. There are also many stand-alone frameworks out there. We are a big fan of Boostrap and the main KeyCDN website is built on it. A solid framework can be an essential tool for frontend developers.
-
-*   [Bootstrap](http://getbootstrap.com): HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-*   [Foundation](http://foundation.zurb.com): Family of responsive frontend frameworks that make it easy to design beautiful responsive websites, apps and emails that look amazing on any device.
-*   [Semantic UI](http://semantic-ui.com): Development framework that helps create beautiful, responsive layouts using human-friendly HTML.
-*   [uikit](http://getuikit.com): A lightweight and modular frontend framework for developing fast and powerful web interfaces.
-
-To learn more about the differences between popular frontend framework, check out our list of the [top frontend frameworks](/blog/frontend-frameworks).
-
-Web application frameworks[#](#web-application-frameworks)
+## Estrutura de Aplicativos da WEB
 
 
---------------------------------------------------------------
+A estrutura de aplicativos da web é uma estrutura de software projetada para ajudar e aliviar parte da dor de cabeça envolvida no desenvolvimento de aplicativos e serviços da web.
 
-A **web application framework** is a software framework designed to aid and alleviate some of the headache involved in the development of web applications and services.
+*   [Ruby](http://rubyonrails.org): Ruby on Rails é uma estrutura de aplicativo da Web que inclui tudo o necessário para criar aplicativos da Web suportados pelo banco de dados, com o padrão MVC.
+*   [AngularJS](https://angularjs.org):  Permite estender o vocabulário HTML para seu aplicativo da web. O AngularJS é uma estrutura, embora seja muito mais leve e às vezes referida como uma biblioteca.
+*   [Ember.js](http://emberjs.com): Uma estrutura para criar aplicativos da web ambiciosos.
+*   [Express](http://expressjs.com): Estrutura da web rápida e minimalista para Node.js.
+*   [Meteor](https://www.meteor.com):  Plataforma de aplicativos JavaScript de pilha completa que reúne todas as peças necessárias para criar aplicativos modernos da Web e móveis, com uma única base de código JavaScript.
+*   [Django](https://www.djangoproject.com): Estrutura da Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático.
+*   [ASP.net](https://www.asp.net): Estrutura de aplicativo da Web gratuita e totalmente suportada que ajuda a criar soluções da Web baseadas em padrões.
+*   [Laravel](https://laravel.com): Uma estrutura de aplicativo da web PHP de código aberto e gratuita para criar aplicativos da Web no padrão MVC.
+*   [Zend Framework 2](http://framework.zend.com): Uma estrutura de código aberto para o desenvolvimento de aplicativos e serviços da Web usando PHP.
+*   [Phalcon](https://phalconphp.com/en/): Uma estrutura PHP de pilha completa fornecida como uma extensão C.
+*   [Symfony](http://symfony.com): Um conjunto de componentes PHP reutilizáveis e uma estrutura de aplicativo da web.
+*   [CakePHP](http://cakephp.org): Uma estrutura popular do PHP que torna a criação de aplicativos da Web mais simples, rápida e requer menos código.
+*   [Flask](http://flask.pocoo.org): Um microframework para Python baseado em Werkzeug e Jinja 2.
+*   [CodeIgniter](https://www.codeigniter.com): Estrutura PHP poderosa e leve criada para desenvolvedores que precisam de um kit de ferramentas simples e elegante para criar aplicativos da Web completos.
 
-*   [Ruby](http://rubyonrails.org): Ruby on Rails is a web-application framework that includes everything needed to create database-backed web applications, with the MVC pattern.
-*   [AngularJS](https://angularjs.org): Lets you extend HTML vocabulary for your web application. AngularJS is a framework, even though it's much more lightweight and sometimes referred to as a library.
-*   [Ember.js](http://emberjs.com): A framework for creating ambitious web applications.
-*   [Express](http://expressjs.com): Fast and minimalist web framework for Node.js.
-*   [Meteor](https://www.meteor.com): Full stack JavaScript app platform that assembles all the pieces you need to build modern web and mobile apps, with a single JavaScript codebase.
-*   [Django](https://www.djangoproject.com): High-level Python Web framework that encourages rapid development and clean, pragmatic design.
-*   [ASP.net](https://www.asp.net): Free, fully supported Web application framework that helps you create standards-based Web solutions.
-*   [Laravel](https://laravel.com): A free, open source PHP web application framework to build web applications on MVC pattern.
-*   [Zend Framework 2](http://framework.zend.com): An open source framework for developing web applications and services using PHP.
-*   [Phalcon](https://phalconphp.com/en/): A full stack PHP framework delivered as a C-extension.
-*   [Symfony](http://symfony.com): A set of reusable PHP components and a web application framework.
-*   [CakePHP](http://cakephp.org): A popular PHP framework that makes building web applications simpler, faster and require less code.
-*   [Flask](http://flask.pocoo.org): A microframework for Python based on Werkzeug and Jinja 2.
-*   [CodeIgniter](https://www.codeigniter.com): Powerful and lightweight PHP framework built for developers who need a simple and elegant toolkit to create full-featured web applications.
 
-Also, make sure to check out KeyCDN's [framework integration guides](/support/integrations/frameworks) to see how you can implement a CDN with the solutions mentioned above.
-
-Task runners / Package managers[#](#task-runners-package-managers)
-
+# Tarefas -  Pacotes
 
 ----------------------------------------------------------------------
 
-**Tasks runners** are all about automating your workflow. For example, you can create a task and automate the minification of JavaScript. Then build and combine tasks to speed up development time. **Package managers** keep track of all the packages you use and make sure they are up to date and the specific version that you need.
+**Tasks runners** são tudo sobre automatizar seu fluxo de trabalho. Por exemplo, você pode criar uma tarefa e automatizar a minificação do JavaScript. Em seguida, crie e combine tarefas para acelerar o tempo de desenvolvimento. Gerentes de pacotes (**package managers**) acompanhe todos os pacotes que você usa e verifique se eles estão atualizados e a versão específica necessária.
 
-*   [Grunt](http://gruntjs.com): JavaScript task runner all about automation.
-*   [Gulp](http://gulpjs.com): Keeps things simple and makes complex tasks manageable, while automating and enhancing your workflow.
-*   [npm](https://www.npmjs.com): Pack manager for JavaScript.
-*   [Bower](http://bower.io): A web package manager. Manage components that contain HTML, CSS, JavaScript, fonts or even image files.
-*   [webpack](https://webpack.github.io): A module bundler for modern JavaScript applications.
-
-Languages / Platforms[#](#languages-platforms)
+*   [Grunt](http://gruntjs.com): Executor de tarefas JavaScript tudo sobre automação.
+*   [Gulp](http://gulpjs.com): Mantém as coisas simples e torna tarefas complexas gerenciáveis, automatizando e aprimorando seu fluxo de trabalho.
+*   [npm](https://www.npmjs.com): Gerenciador de pacotes para JavaScript.
+*   [Bower](http://bower.io): Um gerente de pacotes da web. Gerencie componentes que contenham HTML, CSS, JavaScript, fontes ou até arquivos de imagem.
+*   [webpack](https://webpack.github.io): Um empacotador de módulos para aplicações JavaScript modernas.
 
 
---------------------------------------------------
+## Linguagem de Programação
 
-Behind all the web development tools is a language. A **programming language** is a formal constructed language designed to communicate with a computer and create programs in which you can control the behavior. And yes we realize some of these might not always be referred to as a language.
+Por trás de todas as ferramentas de desenvolvimento da web há uma linguagem **programming language**. A linguagem de programação é uma linguagem formal construída projetada para se comunicar com um computador e criar programas nos quais você pode controlar o comportamento. E sim, percebemos que alguns deles nem sempre são referidos como linguagem.
 
-*   [PHP](http://php.net): Popular general-purpose scripting language that is especially suited to web development.
-*   [NodeJS](https://nodejs.org/en/): Event-driven I/O server side JavaScript environment based on V8.
+*   [PHP](http://php.net): Linguagem popular de script de uso geral, especialmente adequada ao desenvolvimento da web.
+*   [NodeJS](https://nodejs.org/en/): Ambiente JavaScript do lado do servidor de E / S orientado a eventos, baseado no V8.
 *   [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Programming language of HTML and the web.
-*   [HTML5](https://www.w3.org/TR/html5/): Markup language, the latest version of HTML and XHTML.
-*   [Python](https://www.python.org): Programming language that lets you work quickly and integrate systems more effectively.
-*   [Ruby](https://www.ruby-lang.org/en/): A dynamic, open source programming language with a focus on simplicity and productivity.
-*   [Scala](http://www.scala-lang.org): Scala is a pure-bred object-oriented language allowing a gradual, easy migration to a more functional style.
-*   [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3): Latest version of cascading style sheets used in frontend development of sites and applications.
-*   [SQL](https://en.wikipedia.org/wiki/SQL): Stands for structured query language used with relational databases.
-*   [Golang](https://golang.org): Open source programming language that makes it easy to build simple, reliable, and efficient software.
-*   [Rust](https://www.rust-lang.org): Systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
-*   [Elixir](http://elixir-lang.org): Dynamic, functional language designed for building scalable and maintainable applications.
-*   [TypeScript](https://www.typescriptlang.org): Open source programming language that is a superset of JavaScript which compiles to plain JavaScript.
+*   [HTML5](https://www.w3.org/TR/html5/): Linguagem de marcação, a versão mais recente do HTML e XHTML, Markup language.
+*   [Python](https://www.python.org): Linguagem de programação que permite trabalhar rapidamente e integrar sistemas de maneira mais eficaz.
+*   [Ruby](https://www.ruby-lang.org/en/): Uma linguagem de programação dinâmica e de código aberto, com foco na simplicidade e produtividade.
+*   [Scala](http://www.scala-lang.org): Scala é uma linguagem orientada a objetos de raça pura, permitindo uma migração gradual e fácil para um estilo mais funcional.
+*   [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3): Versão mais recente das folhas de estilo em cascata usadas no desenvolvimento de front-end de sites e aplicativos.
+*   [SQL](https://en.wikipedia.org/wiki/SQL): Suporta a linguagem de consulta estruturada usada com bancos de dados relacionais.
+*   [Golang](https://golang.org): Linguagem de programação de código aberto que facilita a criação de software simples, confiável e eficiente.
+*   [Rust](https://www.rust-lang.org): Linguagem de programação de sistemas que roda incrivelmente rápido, evita falhas de seg e garante a segurança da multi-tarefas.
+*   [Elixir](http://elixir-lang.org):  Linguagem dinâmica e funcional projetada para criar aplicações escaláveis e sustentáveis.
+*   [TypeScript](https://www.typescriptlang.org): Linguagem de programação de código aberto que é um superconjunto de JavaScript que compila para o JavaScript simples.
 
-Databases[#](#databases)
-
-
-----------------------------
-
-A **database** is a collection of information that is stored so that it can be retrieved, managed and updated.
-
-*   [MySQL](https://www.mysql.com): One of the world's most popular open source databases.
-*   [MariaDB](https://mariadb.com): Made by the original developers of MySQL. MariaDB is also becoming very popular as an open source database server.
-*   [MongoDB](https://www.mongodb.org): Next-generation database that lets you create applications never before possible.
-*   [Redis](https://redis.io): An open source, in-memory data structure store, used as a database, cache and message broker.
-*   [PostgreSQL](http://www.postgresql.org): A powerful, open source object-relational database system.
-
-CSS preprocessors[#](#css-preprocessors)
+## Banco de Dados
 
 
---------------------------------------------
+**database** é uma coleção de informações armazenadas para que possam ser recuperadas, gerenciadas e atualizadas.
 
-A **CSS preprocessor** is basically a scripting language that extends CSS and then compiles it into regular CSS. Make sure to also check out or in-depth post on [Sass vs Less](/blog/sass-vs-less).
+*   [MySQL](https://www.mysql.com): Um dos bancos de dados de código aberto mais populares do mundo.
+*   [MariaDB](https://mariadb.com): Feito pelos desenvolvedores originais do MySQL. O MariaDB também está se tornando muito popular como um servidor de banco de dados de código aberto.
+*   [MongoDB](https://www.mongodb.org): Banco de dados da próxima geração que permite criar aplicativos nunca antes possível.
+*   [Redis](https://redis.io): Um armazenamento de estrutura de dados em memória de código aberto, usado como banco de dados, cache e corretor de mensagens.
+*   [PostgreSQL](http://www.postgresql.org): Um poderoso sistema de banco de dados objeto-relacional de código aberto.
 
-*   [Sass](http://sass-lang.com): A very mature, stable, and powerful professional grade CSS extension.
-*   [Less](http://lesscss.org): As an extension to CSS that is also backward compatible with CSS. This makes learning Less a breeze, and if in doubt, lets you fall back to vanilla CSS.
-*   [Stylus](http://stylus-lang.com): A new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
+## Pré-processador CSS
+
+
+**CSS preprocessor** é basicamente uma linguagem de script que estende o CSS e o compila no CSS regular. 
+
+*   [Sass](http://sass-lang.com): Uma extensão CSS de nível profissional muito madura, estável e poderosa.
+*   [Less](http://lesscss.org): Como uma extensão do CSS que também é compatível com o CSS. Isso torna o aprendizado menos fácil e, em caso de dúvida, permite que você volte ao vanilla CSS.
+*   [Stylus](http://stylus-lang.com): Um novo idioma, fornecendo uma maneira eficiente, dinâmica e expressiva de gerar CSS. Suportando uma sintaxe recuada e um estilo CSS regular.
 
 If you are just getting started with a CSS preprocessor you might want to make the transition easier by first using a third party compiler, such as the ones below.
 
-Compiler
+| Compiler | Sass Language | Less Language | Mac | Windows |
+| -------- | ------------- | ------------- | --- | ------- |
+| [CodeKit](http://incident57.com/codekit/) | X | X | X | - |
+| [Koala](http://koala-app.com) | X | X | X | X |
+| Hammer | - | - | - | X |
+| [LiveReload](http://livereload.com) | X | X | X | X |
+| [Prepros](https://prepros.io) | X | X | X | X |
+| [Scout](http://scout-app.io) | X | - | X | X |
+| [Crunch](http://getcrunch.co) | - | X | X | X |
+| -------- | ------------- | ------------- | --- | ------- |
 
-Sass Language
+## Editores de texto / editores de código
 
-Less Language
+Esteja você tomando notas, codificando ou anotando, um bom editor de texto faz parte do nosso dia a dia!
 
-Mac
+*   [Atom](https://atom.io): Um editor de texto moderno, acessível e hackable até o núcleo. **Um dos nossos favoritos**!
+*   [Sublime Text](http://www.sublimetext.com): Um sofisticado editor de texto para código, marcação e prosa com ótimo desempenho.
+*   [Notepad++](https://notepad-plus-plus.org): Um editor de código-fonte gratuito que suporta várias linguagens de programação em execução no ambiente MS Windows.
+*   [Visual Studio Code](https://code.visualstudio.com): Edição de código redefinida e otimizada para criar e depurar aplicativos modernos da Web e da nuvem.
+*   [TextMate](https://macromates.com): Um editor de código e marcação para OS X .
+*   [Coda 2](https://panic.com/coda/): Um editor de texto rápido, limpo e poderoso para o OS X
+*   [WebStorm](https://www.jetbrains.com/webstorm/): IDE leve e poderoso, perfeitamente equipado para desenvolvimento complexo do lado do cliente e desenvolvimento do servidor com o Node.js.
+*   [Vim](http://www.vim.org): Um editor de texto altamente configurável criado para permitir a edição eficiente de texto.
 
-Windows
+*   [Brackets](http://brackets.io): Um editor de texto moderno leve e poderoso; escrito em JavaScript, HTML e CSS .
+*   [Emacs](https://www.gnu.org/software/emacs/): Um editor de texto extensível e personalizável com funções internas para ajudar em modificações rápidas de texto e código.
+*   [Dreamweaver](https://www.adobe.com/ca/products/dreamweaver.html):Não é o seu editor de código típico, no entanto, o Dreamweaver pode ser usado para escrever código e criar sites através de uma interface visual.
+*   [SpaceMacs](http://spacemacs.org): Um design de editor de texto para operar nos modos de editor Emacs e Vim.
 
-[CodeKit](http://incident57.com/codekit/)
+## Editores de Markdown
 
-[Koala](http://koala-app.com)
+**Markdown** é uma linguagem de marcação em texto sem formatação, usando uma sintaxe fácil que pode ser convertida em HTML em tempo real. Isso é diferente de um editor WYSIWYG. Editores de Markdown às vezes são chamados de WYSIWYG entre eles e simplesmente escrevendo código.
 
-Hammer
+*   [StackEdit](https://stackedit.io): Um editor gratuito de marcação online rica.
+*   [Dillinger](http://dillinger.io): Um editor de Markdown habilitado para nuvem on-line, HTML5 e cheio de palavras da moda.
+*   [Mou](http://25.io/mou/): Editor de Markdown para desenvolvedores no Mac OS X .
+*   [Texts](http://www.texts.io): Um editor rico para texto sem formatação. Windows e Mac OS X .
 
-[LiveReload](http://livereload.com)
+Alguns dos editores de texto mencionados acima também suportam a marcação. Por exemplo, existe um pacote de visualização de marcação para Atom.
+[markdown preview atom](https://github.com/atom/markdown-preview).
 
-[Prepros](https://prepros.io)
+## Ícones
 
-[Scout](http://scout-app.io)
+Quase todos os desenvolvedores da web, especialmente os desenvolvedores de front-end, em algum momento ou outra necessidade ícones para o projeto deles. Abaixo estão alguns ótimos recursos para ícones de alta qualidade gratuitos e pagos.
 
-[Crunch](http://getcrunch.co)
+*   [Font Awesome](http://fontawesome.io): Ícones vetoriais escaláveis que podem ser personalizados instantaneamente - tamanho, cor, sombra projetada e qualquer coisa que possa ser feita com o poder do CSS.
+*   [IconMonster](http://iconmonstr.com): Uma fonte livre, de alta qualidade, monstruosamente grande e em crescimento contínuo de ícones simples. **Um dos nossos favoritos!**
+*   [Icons8](https://icons8.com): Uma extensa lista de ícones altamente personalizáveis criados por uma única equipe de design.
+*   [IconFinder](https://www.iconfinder.com): O Iconfinder fornece ícones bonitos para milhões de designers e desenvolvedores.
+*   [Fontello](http://fontello.com): Ferramenta para criar fontes personalizadas com ícones.
+*   [Noun Project](https://thenounproject.com): Mais de um milhão de ícones com curadoria. Disponível nas versões gratuita e paga para maior personalização.
 
-Text editors / Code editors[#](#text-editors-code-editors)
-
-
---------------------------------------------------------------
-
-Whether you're taking notes, coding, or writing markdown, a good text editor is a part of our daily lives!
-
-*   [Atom](https://atom.io): A text editor that's modern, approachable, yet hackable to the core. **One of our favorites!**
-*   [Sublime Text](http://www.sublimetext.com): A sophisticated text editor for code, markup, and prose with great performance.
-*   [Notepad++](https://notepad-plus-plus.org): A free source code editor which supports several programming languages running under the MS Windows environment.
-*   [Visual Studio Code](https://code.visualstudio.com): Code editing redefined and optimized for building and debugging modern web and cloud applications.
-*   [TextMate](https://macromates.com): A code and markup editor for OS X.
-*   [Coda 2](https://panic.com/coda/): A fast, clean, and powerful text editor for OS X.
-*   [WebStorm](https://www.jetbrains.com/webstorm/): Lightweight yet powerful IDE, perfectly equipped for complex client side development and server side development with Node.js.
-*   [Vim](http://www.vim.org): A highly configurable text editor built to enable efficient text editing.
-*   [Brackets](http://brackets.io): A lightweight and powerful modern text editor; written in JavaScript, HTML and CSS.
-*   [Emacs](https://www.gnu.org/software/emacs/): An extensible, customizable text editor with built-in functions to aid in quick modifications of text and code.
-*   [Dreamweaver](https://www.adobe.com/ca/products/dreamweaver.html): Not your typical code editor, however, Dreamweaver can be used to write code and build websites through a visual interface. Learn more in this [simple Dreamweaver tutorial.](https://websitesetup.org/dreamweaver-tutorial/)
-*   [SpaceMacs](http://spacemacs.org): A text editor design to operate in both Emacs and Vim editor modes.
-
-Markdown editors[#](#markdown-editors)
-
-
-------------------------------------------
-
-Markdown is a markup language in plain text using an easy syntax that can then be converted to HTML on the fly. This is different than a WYSIWYG editor. **Markdown editors** are sometimes referred to as the in-between WYSIWYG and simply writing code.
-
-*   [StackEdit](https://stackedit.io): A free online rich markdown editor.
-*   [Dillinger](http://dillinger.io): An online cloud-enabled, HTML5, buzzword-filled Markdown editor.
-*   [Mou](http://25.io/mou/): Markdown editor for developers on Mac OS X.
-*   [Texts](http://www.texts.io): A rich editor for plain text. Windows and Mac OS X.
-
-Some of the text editors we mentioned above also support markdown. For example, there is a [markdown preview package](https://github.com/atom/markdown-preview) for atom.
-
-Icons[#](#icons)
+## Git clients / serviços Git
 
 
---------------------
+O Git é um sistema de gerenciamento de código fonte para desenvolvimento de software e web conhecido pelo controle de revisão distribuído. Ao trabalhar com equipes, usando a **cliente git** empurrar as alterações de código do dev para a produção é uma maneira de manter o caos e garantir que as coisas sejam testadas para que não quebrem seu aplicativo ou site ao vivo.
 
-Almost every web developer, especially frontend developers will at some point or another need **icons** for their project. Below are some great resources for both free and paid high quality icons.
+*   [SourceTree](https://www.sourcetreeapp.com): Um cliente Git & Mercurial gratuito para Windows ou Mac. Atlassian também faz um cliente Git da equipe bem legal chamado Bitbucket.
+*   [GitKraken](http://www.gitkraken.com) (Beta): Um cliente Git de plataforma cruzada gratuito, intuitivo, rápido e bonito.
+*   [Tower 2](https://www.git-tower.com): Controle de versão com o Git - facilitado. Em um aplicativo bonito, eficiente e poderoso.
+*   [GitHub Client](https://desktop.github.com): Uma maneira perfeita de contribuir para projetos no GitHub e no GitHub Enterprise.
+*   [Gogs](https://gogs.io): Um serviço Git auto-hospedado e indolor, baseado no idioma Go.
+*   [GitLab](https://about.gitlab.com/gitlab-com/): Hospede seus projetos de software público e privado gratuitamente.
 
-*   [Font Awesome](http://fontawesome.io): Scalable vector icons that can instantly be customized - size, color, drop shadow, and anything that can be done with the power of CSS.
-*   [IconMonster](http://iconmonstr.com): A free, high quality, monstrously big and continuously growing source of simple icons. **One of our favorites!**
-*   [Icons8](https://icons8.com): An extensive list of highly customizable icons created by a single design team.
-*   [IconFinder](https://www.iconfinder.com): Iconfinder provides beautiful icons to millions of designers and developers.
-*   [Fontello](http://fontello.com): Tool to build custom fonts with icons.
-*   [Noun Project](https://thenounproject.com): Over a million curated icons. Available in both free as well as paid versions for greater customizability.
+## Servidores da Web
 
-For more great icon providers, check out our complete list of [16 popular icon library resources](/blog/icon-library).
+O servidor da web que você acaba usando geralmente depende de uma combinação de preferência pessoal, funcionalidade ou infraestrutura preexistente. Nginx e Apache são os dois servidores da web mais amplamente utilizados, no entanto, existem outras opções.
 
-Git clients / Git services[#](#git-clients-git-services)
+*   [Nginx](https://www.nginx.com): Um servidor web de código aberto e alto desempenho. Lida bem com o conteúdo estático e é leve.
 
+*   [Apache](https://httpd.apache.org): Atualmente, alimenta quase 50% de todos os sites. Possui uma comunidade maior ao redor e uma grande seleção de módulos.
 
-------------------------------------------------------------
+*   [IIS](https://www.iis.net): Um servidor da web extensível criado pela Microsoft. Oferece excelente segurança e suporte corporativo, portanto, não é de código aberto.
 
-Git is a source code management system for software and web development known for distributed revision control. When working with teams, using a **git client** to push code changes from dev to production is a way to maintain the chaos and ensure things are tested so they don't break your live web application or site.
+*   [Caddy](https://caddyserver.com): Um servidor web relativamente novo. É um servidor web de código aberto, HTTP / 2 com HTTPS automático.
 
-*   [SourceTree](https://www.sourcetreeapp.com): A free Git & Mercurial client for Windows or Mac. Atlassian also makes a pretty cool team Git client called Bitbucket.
-*   [GitKraken](http://www.gitkraken.com) (Beta): A free, intuitive, fast, and beautiful cross-platform Git client.
-*   [Tower 2](https://www.git-tower.com): Version control with Git - made easy. In a beautiful, efficient, and powerful app.
-*   [GitHub Client](https://desktop.github.com): A seamless way to contribute to projects on GitHub and GitHub Enterprise.
-*   [Gogs](https://gogs.io): A painless self-hosted Git service based on the Go language.
-*   [GitLab](https://about.gitlab.com/gitlab-com/): Host your private and public software projects for free.
+## Ferramentas de API
 
-Web servers[#](#web-servers)
+![ ](/assets/img/api-tools-lg.webp)
 
-
---------------------------------
-
-The web server you ultimately end up using will usually depend on a combination of personal preference, functionality, or preexisting infrastructure. Nginx and Apache are the two most widely used web servers around, however, there are other options.
-
-*   [Nginx](https://www.nginx.com): An open source and high-performant web server. Handles static content well and is lightweight.
-*   [Apache](https://httpd.apache.org): Currently powers almost 50% of all websites. Has a larger community around it and a great selection of modules.
-*   [IIS](https://www.iis.net): An extensible web server created by Microsoft. Offers excellent security and corporate support, therefore is not open source.
-*   [Caddy](https://caddyserver.com): A relatively new web server. It is an open source, HTTP/2 web server with automatic HTTPS.
-
-For a complete comparison of today's biggest web servers, check out our [Nginx vs Apache](/support/nginx-vs-apache) article.
-
-API tools[#](#api-tools)
-
-
-----------------------------
-
-Web developers typically deal with APIs on a daily basis. They are essential in today's web development environment, however, can sometimes be difficult to deal with in terms of monitoring, creating, or combining. Thankfully, there are a variety of tools available to make working with APIs much more efficient.
+Os desenvolvedores da Web geralmente lidam com APIs diariamente. Eles são essenciais no ambiente atual de desenvolvimento da web, no entanto, às vezes pode ser difícil de lidar em termos de monitoramento, criação ou combinação. Felizmente, existem várias ferramentas disponíveis para tornar o trabalho com APIs muito mais eficiente.
 
 *   [Runscope](https://www.runscope.com): An API performance testing, monitoring, and debugging solution.
 *   [Zapier](https://zapier.com): Connect the APIs of various apps and services in order to automate workflows and enable automation.
