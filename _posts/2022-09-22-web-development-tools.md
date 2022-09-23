@@ -52,6 +52,7 @@ O JavaScript é uma das linguagens de programação mais populares da web. UMA *
 
 ## Estrutura de Aplicativos da WEB
 
+![ ](/assets/img/web-application-frameworks.webp)
 
 A estrutura de aplicativos da web é uma estrutura de software projetada para ajudar e aliviar parte da dor de cabeça envolvida no desenvolvimento de aplicativos e serviços da web.
 
@@ -73,7 +74,7 @@ A estrutura de aplicativos da web é uma estrutura de software projetada para aj
 
 # Tarefas -  Pacotes
 
-----------------------------------------------------------------------
+![ ](/assets/img/build-systems-task-runners.webp)
 
 **Tasks runners** são tudo sobre automatizar seu fluxo de trabalho. Por exemplo, você pode criar uma tarefa e automatizar a minificação do JavaScript. Em seguida, crie e combine tarefas para acelerar o tempo de desenvolvimento. Gerentes de pacotes (**package managers**) acompanhe todos os pacotes que você usa e verifique se eles estão atualizados e a versão específica necessária.
 
@@ -85,6 +86,8 @@ A estrutura de aplicativos da web é uma estrutura de software projetada para aj
 
 
 ## Linguagem de Programação
+
+![ ](/assets/img/programming-languages.webp)
 
 Por trás de todas as ferramentas de desenvolvimento da web há uma linguagem **programming language**. A linguagem de programação é uma linguagem formal construída projetada para se comunicar com um computador e criar programas nos quais você pode controlar o comportamento. E sim, percebemos que alguns deles nem sempre são referidos como linguagem.
 
@@ -104,6 +107,7 @@ Por trás de todas as ferramentas de desenvolvimento da web há uma linguagem **
 
 ## Banco de Dados
 
+![ ](/assets/img/databases.webp)
 
 **database** é uma coleção de informações armazenadas para que possam ser recuperadas, gerenciadas e atualizadas.
 
@@ -115,6 +119,7 @@ Por trás de todas as ferramentas de desenvolvimento da web há uma linguagem **
 
 ## Pré-processador CSS
 
+![ ](/assets/img/css-preprocessors.webp)
 
 **CSS preprocessor** é basicamente uma linguagem de script que estende o CSS e o compila no CSS regular. 
 
@@ -137,6 +142,8 @@ If you are just getting started with a CSS preprocessor you might want to make t
 
 ## Editores de texto / editores de código
 
+![ ](/assets/img/text-editors-code-editors.webp)
+
 Esteja você tomando notas, codificando ou anotando, um bom editor de texto faz parte do nosso dia a dia!
 
 *   [Atom](https://atom.io): Um editor de texto moderno, acessível e hackable até o núcleo. **Um dos nossos favoritos**!
@@ -155,6 +162,8 @@ Esteja você tomando notas, codificando ou anotando, um bom editor de texto faz 
 
 ## Editores de Markdown
 
+![ ](/assets/img/markdown-editors.webp)
+
 **Markdown** é uma linguagem de marcação em texto sem formatação, usando uma sintaxe fácil que pode ser convertida em HTML em tempo real. Isso é diferente de um editor WYSIWYG. Editores de Markdown às vezes são chamados de WYSIWYG entre eles e simplesmente escrevendo código.
 
 *   [StackEdit](https://stackedit.io): Um editor gratuito de marcação online rica.
@@ -167,6 +176,8 @@ Alguns dos editores de texto mencionados acima também suportam a marcação. Po
 
 ## Ícones
 
+![ ](/assets/img/icons.webp)
+
 Quase todos os desenvolvedores da web, especialmente os desenvolvedores de front-end, em algum momento ou outra necessidade ícones para o projeto deles. Abaixo estão alguns ótimos recursos para ícones de alta qualidade gratuitos e pagos.
 
 *   [Font Awesome](http://fontawesome.io): Ícones vetoriais escaláveis que podem ser personalizados instantaneamente - tamanho, cor, sombra projetada e qualquer coisa que possa ser feita com o poder do CSS.
@@ -178,6 +189,7 @@ Quase todos os desenvolvedores da web, especialmente os desenvolvedores de front
 
 ## Git clients / serviços Git
 
+![ ](/assets/img/git-clients.webp)
 
 O Git é um sistema de gerenciamento de código fonte para desenvolvimento de software e web conhecido pelo controle de revisão distribuído. Ao trabalhar com equipes, usando a **cliente git** empurrar as alterações de código do dev para a produção é uma maneira de manter o caos e garantir que as coisas sejam testadas para que não quebrem seu aplicativo ou site ao vivo.
 
@@ -189,6 +201,8 @@ O Git é um sistema de gerenciamento de código fonte para desenvolvimento de so
 *   [GitLab](https://about.gitlab.com/gitlab-com/): Hospede seus projetos de software público e privado gratuitamente.
 
 ## Servidores da Web
+
+![ ](/assets/img/web-servers-lg.webp)
 
 O servidor da web que você acaba usando geralmente depende de uma combinação de preferência pessoal, funcionalidade ou infraestrutura preexistente. Nginx e Apache são os dois servidores da web mais amplamente utilizados, no entanto, existem outras opções.
 
@@ -215,6 +229,8 @@ Os desenvolvedores da Web geralmente lidam com APIs diariamente. Eles são essen
 
 ## Ambientes locais de desenvolvimento
 
+![ ](/assets/img/local-dev-environment.webp)
+
 Dependendo do sistema operacional em que você está executando ou do computador ao qual você tem acesso atualmente, pode ser necessário iniciar um rápido ambiente local (**local dev environment**). Existem muitos utilitários gratuitos que agrupam Apache, mySQL, phpmyAdmin etc. todos juntos. Essa pode ser uma maneira rápida de testar algo em sua máquina local. Muitos deles têm versões portáteis.
 
 *   [XAMPP](https://www.apachefriends.org/index.html): Distribuição Apache completamente gratuita e fácil de instalar, contendo MariaDB, PHP e Perl.
@@ -227,105 +243,111 @@ Dependendo do sistema operacional em que você está executando ou do computador
 
 ## Verificadores de Diferenças
 
+![ ](/assets/img/diff-checkers.webp)
 
-------------------------------------
-
-Diff checkers can help you compare differences between files and then merge the changes. A lot of this can be done from CLI, but sometimes it can be helpful to see a more visual representation.
-
-*   [Diffchecker](https://www.diffchecker.com): Online diff tool to compare text differences between two text files. Great if you are on the go and quickly need to compare something.
-*   [Beyond Compare](http://www.scootersoftware.com): A program to compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not.
-
-A lot of the free text editors we mentioned above also have plugins or extensions which allow you to diff or compare your files.
-
-Code sharing / Code experimenting[#](#code-sharing-code-experimenting)
+Verificadores diferentes podem ajudá-lo a comparar diferenças entre arquivos e mesclar as alterações. Muito disso pode ser feito na CLI, mas às vezes pode ser útil ver uma representação mais visual.
 
 
---------------------------------------------------------------------------
 
-There is always that time when you are on Skype or Google hangout with another developer and you want him or her to take a quick look at your code. There are great team tools for **sharing code** like Slack, but if they aren't a member of your team there are some great quick alternatives. Remember not to share anything secure.
+*   [Diffchecker](https://www.diffchecker.com): Ferramenta diff online para comparar diferenças de texto entre dois arquivos de texto. Ótimo se você estiver em movimento e precisar rapidamente comparar algo.
+*   [Beyond Compare](http://www.scootersoftware.com): Um programa para comparar arquivos e pastas usando comandos simples e poderosos que se concentram nas diferenças de seu interesse e ignoram aqueles que você não é.
 
-*   [JS Bin](http://jsbin.com): Tool for experimenting with web languages. In particular HTML, CSS and JavaScript, Markdown, Jade and Sass.
-*   [JSfiddle](https://jsfiddle.net): Custom environment to test your JavaScript, HTML, and CSS code right inside your browser.
-*   [codeshare](https://codeshare.io): Share code in real time with other developers.
-*   [Dabblet](http://dabblet.com): Interactive playground for quickly testing snippets of CSS and HTML code.
+Muitos dos editores de texto livre mencionados acima também possuem plug-ins ou extensões que permitem diferenciar ou comparar seus arquivos.
 
-Collaboration tools[#](#collaboration-tools)
+## Compartilhamento de código 
 
+![ ](/assets/img/code-sharing.webp)
 
-------------------------------------------------
+**sharing code** - Sempre existe esse momento em que você está no hangout do Skype ou do Google com outro desenvolvedor e deseja que ele dê uma olhada rápida no seu código. Existem ótimas ferramentas de equipe para compartilhando código como o Slack, mas se eles não são membros da sua equipe, existem ótimas alternativas rápidas. Lembre-se de não compartilhar nada seguro.
 
-Every great development team needs a way to stay in touch, **collaborate**, and be productive. A lot of teams work remotely now. The team at KeyCDN is actually spread across many different continents. Tools like these below can help employees streamline their development workflow.
-
-*   [Slack](https://slack.com/r/0d5amdd3-0h4fmxst%20rel=): Messaging app for teams that is on a mission to make your working life simpler, more pleasant, and more productive. **One of our favorites, we use this at KeyCDN!**
-*   [Trello](https://trello.com): Flexible and visual way to organize anything with anyone. We also use this as KeyCDN.
-*   [Glip](https://glip.com): Real-time messaging with integrated task management, video conferencing, shared calendars and more.
-*   [Asana](https://asana.com): Team collaboration tool for teams to track their work and results.
-*   [Jira](https://www.atlassian.com/software/jira): Built for every member of your software team to plan, track, and release great software or web applications.
-
-Inspiration[#](#inspiration)
+*   [JS Bin](http://jsbin.com): Ferramenta para experimentar idiomas da web. Em particular HTML, CSS e JavaScript, Markdown, Jade e Sass.
+*   [JSfiddle](https://jsfiddle.net): Ambiente personalizado para testar seu código JavaScript, HTML e CSS dentro do seu navegador.
+*   [codeshare](https://codeshare.io): Compartilhe código em tempo real com outros desenvolvedores.
+*   [Dabblet](http://dabblet.com): Playground interativo para testar rapidamente trechos de código CSS e HTML.
 
 
---------------------------------
+## Ferramentas de colaboração
 
-We all need **inspiration** at some point or another. For frontend developers especially, from time to time, it can be beneficial to check out what other people are doing. This can be a great source of inspiration, new ideas, and making sure your web application or site doesn't fall behind the times.
+![ ](/assets/img/dev-collaboration-tools.webp)
 
-*   [CodePen](http://codepen.io): Show off your latest creation and get feedback. Build a test case for that pesky bug. Find example design patterns and inspiration for your projects.
-*   [Dribble](https://dribbble.com): A community of designers sharing screenshots of their work, process, and projects.
-*   [Behance](https://www.behance.net): Another community-driven resource where users can showcase and discover creative work.
+**collaborate** - Toda grande equipe de desenvolvimento precisa de uma maneira de manter contato colaborar, e seja produtivo. Muitas equipes trabalham remotamente agora. A equipe do KeyCDN está realmente espalhada por muitos continentes diferentes. Ferramentas como essas abaixo podem ajudar os funcionários a otimizar seu fluxo de trabalho de desenvolvimento.
 
-Website speed test tools[#](#website-speed-test-tools)
+*   [Slack](https://slack.com/r/0d5amdd3-0h4fmxst%20rel=): Aplicativo de mensagens para equipes que estão em uma missão para tornar sua vida profissional mais simples, mais agradável e mais produtiva.
+*   [Trello](https://trello.com): Maneira flexível e visual de organizar qualquer coisa com alguém.  
+*   [Glip](https://glip.com): Mensagens em tempo real com gerenciamento integrado de tarefas, videoconferência, calendários compartilhados e muito mais.
+*   [Asana](https://asana.com): Ferramenta de colaboração de equipe para as equipes rastrearem seu trabalho e resultados.
+*   [Jira](https://www.atlassian.com/software/jira): Criado para cada membro da sua equipe de software planejar, rastrear e liberar ótimos aplicativos de software ou web.
+
+## Inspiração
+
+![ ](/assets/img/developers-inspiration.webp)
+
+**inspiration** - Todos nós precisamos inspiração em algum momento ou outro. Especialmente para desenvolvedores de front-end, de tempos em tempos, pode ser benéfico verificar o que outras pessoas estão fazendo. Isso pode ser uma ótima fonte de inspiração, novas idéias e garantir que seu aplicativo ou site não fique para trás nos tempos.
 
 
-----------------------------------------------------------
 
-The speed of a website can be a critical factor to its success. Faster loading websites can benefit from higher SEO rankings, higher conversion rates, lower bounce rates, and a better overall user experience and engagement. It is important to take advantage of the many free tools available for testing **website speed**.
+*   [CodePen](http://codepen.io): Mostre sua última criação e obtenha feedback. Crie um caso de teste para esse bug irritante. Encontre exemplos de padrões de design e inspiração para seus projetos.
 
-*   [Website Speed Test](https://tools.keycdn.com/speed): A page speed test developed by KeyCDN that includes a waterfall breakdown and the website preview.
-*   [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/): PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.
-*   [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=en): Set of web authoring and debugging tools built into Google Chrome.
-*   [Dotcom-Tools Speed Test](https://www.dotcom-tools.com/website-speed-test.aspx): Test the speed of your website in real browsers from 25 locations worldwide.
-*   [WebPageTest](http://www.webpagetest.org): Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds.
-*   [Pingdom](http://tools.pingdom.com/fpt/): Test the load time of that page, analyze it and find bottlenecks.
-*   [GTmetrix](https://gtmetrix.com): Gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
+*   [Dribble](https://dribbble.com): Uma comunidade de designers que compartilham capturas de tela de seu trabalho, processo e projetos.
+
+*   [Behance](https://www.behance.net): Outro recurso orientado pela comunidade, onde os usuários podem mostrar e descobrir trabalhos criativos.
+
+## Ferramentas de teste de velocidade do site
+
+![ ](/assets/img/website-speed-test-tools-lg.webp)
+
+**website speed** - A velocidade de um site pode ser um fator crítico para o seu sucesso. Sites de carregamento mais rápido podem se beneficiar de classificações mais altas de SEO, taxas de conversão mais altas, taxas de rejeição mais baixas e uma melhor experiência e envolvimento geral do usuário. É importante aproveitar as muitas ferramentas gratuitas disponíveis para teste velocidade do site.
+
+*   [Website Speed Test](https://tools.keycdn.com/speed): Um teste de velocidade da página desenvolvido pelo KeyCDN que inclui uma falha na cascata e a visualização do site.
+*   [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/): O PageSpeed Insights analisa o conteúdo de uma página da web e gera sugestões para tornar essa página mais rápida.
+*   [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=en): Conjunto de ferramentas de criação e depuração da Web incorporadas ao Google Chrome.
+*   [Dotcom-Tools Speed Test](https://www.dotcom-tools.com/website-speed-test.aspx): Teste a velocidade do seu site em navegadores reais de 25 locais em todo o mundo.
+*   [WebPageTest](http://www.webpagetest.org): Execute um teste de velocidade gratuito do site em vários locais do mundo usando navegadores reais (IE e Chrome) e em velocidades reais de conexão do consumidor.
+
+*   [Pingdom](http://tools.pingdom.com/fpt/): Teste o tempo de carregamento dessa página, analise-o e encontre gargalos.
+*   [GTmetrix](https://gtmetrix.com): Dá uma visão de quão bem o site é carregado e fornece recomendações acionáveis sobre como otimizá-lo.
+
 
 You can see a more in-depth list on our post about [website speed test tools](/blog/website-speed-test-tools).
 
-Web development communities[#](#web-development-communities)
+## Comunidades de desenvolvimento da Web
 
+![ ](/assets/img/web-development-communities.webp)
 
-----------------------------------------------------------------
+**web development communities** - Todo desenvolvedor web esteve lá. Eles têm um problema e o que eles fazem? Bem, eles vão ao Google para encontrar uma resposta rápida. A web oferece tanto conteúdo na ponta dos dedos que facilita o diagnóstico e a solução de problemas quando eles surgem. Confira algumas boas comunidades de desenvolvimento web abaixo.
 
-Every web developer has been there. They have a problem and what do they do? Well, they go to Google to find a quick answer. The web offers so much content right at our fingertips that it makes it easy to diagnose and troubleshoot problems when they arise. Check out a few good **web development communities** below.
+*   [Stack Overflow](http://stackoverflow.com): Comunidade de 4,7 milhões de programadores, assim como você, ajudando um ao outro.
+*   [Frontend Front](https://frontendfront.com): Um lugar onde os desenvolvedores de front-end podem fazer perguntas, compartilhar links interessantes e mostrar seu trabalho para o resto da comunidade.
 
-*   [Stack Overflow](http://stackoverflow.com): Community of 4.7 million programmers, just like you, helping each other.
-*   [Frontend Front](https://frontendfront.com): A place where frontend developers can ask questions, share interesting links, and show their work to the rest of the community.
-*   [Hashnode](https://hashnode.com): Global community for software developers to connect and learn programming from each other.
-*   [Refind](https://refind.com): Community of founders, hackers, and designers who collect and share the best links on the web.
-*   [Facebook WordPress Front End Developers Group](https://www.facebook.com/groups/wpfrontenddevs/): WordPress Front End Developers is a group for devs to ask questions, share their work, discuss emerging trends, and collaborate.
-*   [LinkedIn Web Design and Development Professionals Group](https://www.linkedin.com/groups/139851/profile): Networking and information sharing resource for professional Web Designers, Web Developers and Web Masters.
-*   [LinkedIn Web Site Development Group](https://www.linkedin.com/groups/2192521/profile): Website design & programming.
-*   [LinkedIn PHP Developer Group](https://www.linkedin.com/groups/2195403/profile): PHP, Mysql, Drupal, Joomla, Zend, Cake, MVC.
-*   [LinkedIn WordPress Developers Group](https://www.linkedin.com/groups/3722491): WordPress Codex. Using WP as CMS and CMF.
-*   [Webdeveloper.com](http://www.webdeveloper.com/forum/): Where web developers and designers learn how to build web sites, program in HTML, Java and JavaScript.
-*   [Sitepoint Forums](https://www.sitepoint.com/community/): Web development discussion.
-*   [/r/perfmatters](https://www.reddit.com/r/perfmatters/): The #1 subreddit about web performance and web development.
-*   [/r/webdev](https://www.reddit.com/r/webdev): What's new for web developers.
+*   [Hashnode](https://hashnode.com): Comunidade global para desenvolvedores de software para conectar e aprender programação uns com os outros.
 
-Web development newsletters[#](#web-development-newsletters)
+*   [Refind](https://refind.com): Comunidade de fundadores, hackers e designers que coletam e compartilham os melhores links da web.
 
+*   [Facebook WordPress Front End Developers Group](https://www.facebook.com/groups/wpfrontenddevs/): O WordPress Front End Developers é um grupo para desenvolvedores fazerem perguntas, compartilharem seu trabalho, discutirem tendências emergentes e colaborarem.
+*   [LinkedIn Web Design and Development Professionals Group](https://www.linkedin.com/groups/139851/profile): Recurso de compartilhamento de informações e redes para designers da Web profissionais, desenvolvedores da Web e mestres da Web.
+*   [LinkedIn Web Site Development Group](https://www.linkedin.com/groups/2192521/profile): Design e programação de sites.
+*   [LinkedIn PHP Developer Group](https://www.linkedin.com/groups/2195403/profile): PHP, Mysql, Drupal, Joomla, Zend, Cake, MVC .
+*   [LinkedIn WordPress Developers Group](https://www.linkedin.com/groups/3722491): Codex WordPress. Usando WP como CMS e CMF.
+*   [Webdeveloper.com](http://www.webdeveloper.com/forum/): Onde desenvolvedores e designers da web aprendem a criar sites, programe em HTML, Java e JavaScript.
+*   [Sitepoint Forums](https://www.sitepoint.com/community/): Discussão sobre desenvolvimento Web.
+*   [/r/perfmatters](https://www.reddit.com/r/perfmatters/): O subreddit no 1 sobre desempenho da web e desenvolvimento da web.
+*   [/r/webdev](https://www.reddit.com/r/webdev): O que há de novo para desenvolvedores da web.
 
-----------------------------------------------------------------
+## Boletins informativos sobre desenvolvimento da Web
 
-*   [wdrl.info](https://wdrl.info): A handcrafted, carefully selected list of web development related resources. Curated and published usually _every week_.
-*   [webopsweekly.com](http://webopsweekly.com): A _weekly_ newsletter for Web developers focusing on web operations, infrastructure, deployment of apps, performance, and tooling, from the browser down to the metal.
-*   [webtoolsweekly.com](http://webtoolsweekly.com): A frontend development and web design newsletter with a focus on tools. Each issue features a brief tip or tutorial, followed by a _weekly_ round-up of various apps, scripts, plugins, and other resources.
-*   [freshbrewed.co](https://freshbrewed.co): A _weekly_ reading digest for frontend developers and UX designers.
-*   [smashingmagazine.com](https://www.smashingmagazine.com): Smashing Magazine is an online magazine for professional web designers and developers. Useful tips and valuable resources sent out _every second Tuesday_.
-*   [fridayfrontend.com](http://fridayfrontend.com): Frontend development links tweeted daily, emailed _weekly_.
-*   [/dev tips](https://umaar.com/dev-tips/): Receive a developer tip, in the form of a gif, in your inbox _each week_.
+![ ](/assets/img/web-development-newsletters.webp)
 
-And of course, you can subscribe to our newsletter if you haven't already on the right-hand side of this post. For an even further comprehensive list of web development blogs and newsletters, check out our [40+ best web developments blogs of 2018](https://www.keycdn.com/blog/web-development-blogs).
+*   [wdrl.info](https://wdrl.info): Uma lista artesanal e cuidadosamente selecionada de recursos relacionados ao desenvolvimento da web. Com curadoria e publicada normalmente _toda semana_.
+*   [webopsweekly.com](http://webopsweekly.com): _Semanal_ boletim informativo para desenvolvedores da Web com foco em operações da Web, infraestrutura, implantação de aplicativos, desempenho e ferramentas, do navegador ao metal.
+*   [webtoolsweekly.com](http://webtoolsweekly.com): Um boletim informativo de desenvolvimento de front-end e web design com foco em ferramentas. Cada edição apresenta uma breve dica ou tutorial, _semanal_ arredondamento de vários aplicativos, scripts, plug-ins e outros recursos.
+*   [freshbrewed.co](https://freshbrewed.co): _Semanal_ resumo de leitura para desenvolvedores de front-end e designers de UX.
 
+*   [smashingmagazine.com](https://www.smashingmagazine.com): Smashing Magazine é uma revista on-line para web designers e desenvolvedores profissionais. Dicas úteis e recursos valiosos enviados toda _segunda terça-feira_.
+
+*   [fridayfrontend.com](http://fridayfrontend.com): Links de desenvolvimento de frontend twittados diariamente, enviados por e-mail _semanal_.
+*   [/dev tips](https://umaar.com/dev-tips/): Receba uma dica do desenvolvedor, na forma de um gif, na sua caixa de entrada cada _semana_.
+
+[40+ best web developments blogs of 2018](https://www.keycdn.com/blog/web-development-blogs).
 
 [Source](https://www.keycdn.com/blog/web-development-tools)
 
