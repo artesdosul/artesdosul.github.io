@@ -1,0 +1,407 @@
+{
+  "basics": {
+    "name": "Araguaci Carlos de Andrade",
+    "label": "Analista de Sistemas, Engenheiro Web & IoT",
+    "email": "artesdosul@proton.me",
+    "phone": "47 93618-2687 (SC) · 11 97374-1227 (SP)",
+    "mobile": "47 93618-2687",
+    "picture": "/assets/img/Eu100x157.jpg",
+    "summary": "Profissional com mais de 30 anos de atuação contínua em arquitetura de software, desenvolvimento web e sistemas embarcados. Fundador do ecossistema Artes do Sul, com 56+ plataformas e micro-SaaS em produção. Especialista em engenharia web de alta performance (PWA Offline-First, WebGL Shaders, Web Audio API, Canvas 2D), soluções com Inteligência Artificial Generativa e LLMs, hardware conectado (ESP32, RP2040, M5Stack, rádio ESP-NOW) e infraestrutura soberana (Proxmox VE, Docker Compose, Linux, redes seguras WireGuard).",
+    "location": {
+      "city": "Bombinhas",
+      "region": "Santa Catarina",
+      "countryCode": "BR"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "araguaci",
+        "url": "https://github.com/araguaci/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Araguaci",
+        "url": "https://www.linkedin.com/in/araguaci/"
+      },
+      {
+        "network": "X",
+        "username": "artesdosul",
+        "url": "https://x.com/artesdosul"
+      },
+      {
+        "network": "Portal",
+        "username": "Artes do Sul",
+        "url": "https://artesdosul.com/"
+      },
+      {
+        "network": "Substack",
+        "username": "araguaci",
+        "url": "https://araguaci.substack.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Autônomo (Artes do Sul)",
+      "position": "Arquiteto de Software, Engenheiro Web & IoT",
+      "startDate": "2012-04-01",
+      "summary": "Fundador e líder técnico do ecossistema Artes do Sul, desenvolvendo e sustentando plataformas digitais soberanas, soluções em inteligência artificial e hardware IoT.",
+      "highlights": [
+        "Arquitetura, desenvolvimento e deploy de 56+ micro-SaaS e aplicações serverless na Vercel e Edge Mesh.",
+        "Criação de suíte de webapps criativos de alta performance com WebGL, Shaders GLSL, Web Audio API e Canvas 2D.",
+        "Engenharia de hardware embarcado e telemetria sem fio com ESP32, RP2040, protocolo ESP-NOW (<5ms) e M5Stack Cardputer.",
+        "Implementação e administração de Homelab soberano com Proxmox VE, Docker Compose, Pi-hole, WireGuard e Home Assistant (HAOS).",
+        "Engenharia de prompts avançada e pipelines de automação com modelos LLM (Gemini, Claude, OpenAI).",
+        "Desenvolvimento histórico de módulos CTI/CRM para centrais 3CX, Intelbras e Panasonic, além de servidores Linux."
+      ]
+    },
+    {
+      "company": "Tribunal de Contas do Estado de Santa Catarina (TCE/SC)",
+      "position": "Programador & Webdesigner",
+      "startDate": "2009-04-01",
+      "endDate": "2012-04-01",
+      "summary": "Desenvolvimento de sistemas públicos de auditoria, transparência e controle de gestão municipal.",
+      "highlights": [
+        "Desenvolvimento do Portal de Mapa de Gestão dos Municípios de Santa Catarina em PHP, JavaScript e framework Zend.",
+        "Manutenção e refatoração de sistemas legados em Visual Basic 6.0 e bancos de dados relacionais.",
+        "Implementação do Sistema de Análise de Desempenho e relatórios gerenciais para auditoria governamental."
+      ]
+    },
+    {
+      "company": "Artes do Sul",
+      "position": "Desenvolvedor & Consultor Web",
+      "startDate": "2007-04-01",
+      "endDate": "2009-04-01",
+      "summary": "Criação de websites, portais corporativos e rotinas administrativas sob demanda.",
+      "highlights": [
+        "Gestão de infraestrutura de hospedagem e administração de servidores Linux com cPanel e WHM.",
+        "Criação de sistemas personalizados para gerenciamento de cadastros, clientes e rotinas comerciais."
+      ]
+    },
+    {
+      "company": "Votorantim",
+      "position": "Analista de Suporte de Sistemas",
+      "startDate": "2006-04-01",
+      "endDate": "2007-04-01",
+      "summary": "Suporte e manutenção de sistemas corporativos de gestão de projetos de grande escala.",
+      "highlights": [
+        "Administração e suporte ao Sistema de Gestão de Projetos Primavera.",
+        "Gerenciamento de alta disponibilidade e replicação de banco de dados MSSQL Server."
+      ]
+    },
+    {
+      "company": "Attender",
+      "position": "Desenvolvedor de Software",
+      "startDate": "2004-04-01",
+      "endDate": "2005-04-01",
+      "summary": "Desenvolvimento de sistemas de CTI (Computer Telephony Integration) e CRM corporativo.",
+      "highlights": [
+        "Reengenharia de arquitetura de sistema CRM para o modelo corporativo em 3 camadas.",
+        "Desenvolvimento de módulos de integração entre centrais telefônicas e rotinas de atendimento ao cliente."
+      ]
+    },
+    {
+      "company": "Votorantim",
+      "position": "Desenvolvedor de Sistemas",
+      "startDate": "2002-04-01",
+      "endDate": "2004-04-01",
+      "summary": "Desenvolvimento de interfaces automatizadas e integração de rotinas de suprimentos.",
+      "highlights": [
+        "Criação de componentes ActiveX em Visual Basic para agendamento (schedule) e processamento batch."
+      ]
+    },
+    {
+      "company": "SIEMENS",
+      "position": "Desenvolvedor de Sistemas",
+      "startDate": "1995-04-01",
+      "endDate": "2000-04-01",
+      "summary": "Atuação em projetos de telecomunicações, gerenciamento de reparos, contratos e telepeças.",
+      "highlights": [
+        "Controle e gerenciamento automatizado de patches e releases de software de telecomunicações.",
+        "Desenvolvimento de sistema de notificação de falhas sistêmicas em Visual Basic com banco de dados MSSQL."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Floripa Surf Club",
+      "position": "Web Designer & Developer Voluntário",
+      "website": "https://floripasurfclub.com/",
+      "startDate": "2019-01-01",
+      "keywords": [
+        "Criador",
+        "Desenvolvedor",
+        "Hospedagem",
+        "Comunidade"
+      ]
+    },
+    {
+      "organization": "Federação Catarinense de Surf (FECESS)",
+      "position": "Web Designer & Developer Voluntário",
+      "website": "https://escolasdesurf.org.br/",
+      "startDate": "2019-01-01",
+      "keywords": [
+        "Portal Oficial",
+        "Educação",
+        "Esporte Social"
+      ]
+    },
+    {
+      "organization": "Easy Surf School and Trips",
+      "position": "Web Designer & Developer Voluntário",
+      "website": "https://feceess.escolasdesurf.org.br/easysurf/",
+      "startDate": "2023-01-01",
+      "keywords": [
+        "Página Institucional",
+        "Ecoturismo"
+      ]
+    },
+    {
+      "organization": "Mili Surf School",
+      "position": "Web Designer & Developer Voluntário",
+      "website": "https://feceess.escolasdesurf.org.br/mariscal/",
+      "startDate": "2023-02-01",
+      "keywords": [
+        "Mariscal",
+        "Escola de Surf"
+      ]
+    },
+    {
+      "organization": "Itapira Norte Sul",
+      "position": "Web Designer & Developer Voluntário",
+      "website": "https://feceess.escolasdesurf.org.br/itapiranortesul/",
+      "startDate": "2023-03-01",
+      "keywords": [
+        "Iniciativa Social",
+        "Web Design"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNICEMP",
+      "area": "Informática",
+      "studyType": "Bacharelado",
+      "startDate": "1994-01-01",
+      "endDate": "1998-01-01"
+    },
+    {
+      "institution": "UNICEMP",
+      "area": "Gestão da Informação",
+      "studyType": "Pós-Graduação / Especialização",
+      "startDate": "1998-01-01",
+      "endDate": "1999-01-01"
+    },
+    {
+      "institution": "UFPR (Universidade Federal do Paraná)",
+      "area": "Software Livre & Administração Linux",
+      "studyType": "Extensão Universitária",
+      "startDate": "2000-01-01",
+      "endDate": "2001-01-01"
+    },
+    {
+      "institution": "Escola de Surf Bombinhas",
+      "area": "Instrutor e Orientador de Surf",
+      "studyType": "Certificação Profissional",
+      "startDate": "2010-01-01",
+      "endDate": "2014-04-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engenharia Web & Frontend Moderno",
+      "keywords": [
+        "PWA (Progressive Web Apps)",
+        "JavaScript (ESNext)",
+        "TypeScript",
+        "WebGL & Shaders GLSL",
+        "Web Audio API",
+        "Canvas 2D",
+        "CSS3 Moderno & Glassmorphism",
+        "HTML5 Semântico & Acessibilidade",
+        "Jekyll & Liquid"
+      ]
+    },
+    {
+      "name": "Inteligência Artificial & Agentes",
+      "keywords": [
+        "Engenharia de Prompts Avançada",
+        "Integração com LLMs (Gemini, Claude, OpenAI)",
+        "Agentes Autônomos & Pair Programming",
+        "Análise de Dados & Visão Computacional",
+        "Python & Automações",
+        "APIs RESTful"
+      ]
+    },
+    {
+      "name": "Hardware, IoT & Sistemas Embarcados",
+      "keywords": [
+        "ESP32 (ESP-IDF, Arduino C++)",
+        "RP2040 / Raspberry Pi Pico",
+        "Protocolo ESP-NOW (<5ms)",
+        "M5Stack Ecosystem (Cardputer)",
+        "Home Assistant (HAOS, ESPHome, Zigbee)",
+        "Esquemáticos e Pinouts de Bancada"
+      ]
+    },
+    {
+      "name": "Infraestrutura Soberana & DevOps",
+      "keywords": [
+        "Vercel Serverless Edge Mesh",
+        "Proxmox VE (Virtualização & LXC)",
+        "Docker & Docker Compose",
+        "Redes Seguras & WireGuard VPN",
+        "Pi-hole & DNS Local",
+        "Servidores Linux (Debian, Ubuntu)",
+        "Git & GitHub Actions"
+      ]
+    },
+    {
+      "name": "Bancos de Dados & Backend Legado",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "SQLite",
+        "MSSQL Server",
+        "Schema Design",
+        "Node.js & PHP",
+        "CTI / CRM / Telefonia IP (3CX, Intelbras, Asterisk)",
+        "Visual Basic 6.0 & C#"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Projects Hub (Ecossistema Artes do Sul)",
+      "url": "https://artesdosul.com/projetos/",
+      "description": "Painel de comando executivo de 56+ micro-SaaS, IA, to-dos e dashboards deployados na Vercel e Edge Mesh.",
+      "keywords": [
+        "Vercel",
+        "Serverless",
+        "Local Persistence",
+        "PWA"
+      ]
+    },
+    {
+      "name": "ChromaMesh (Estúdio de Mesh Gradients)",
+      "url": "https://chromamesh.artesdosul.com/",
+      "description": "Gerador generativo de gradientes de malha fluida, ruído Perlin/Simplex e exportação CSS/SVG/PNG.",
+      "keywords": [
+        "Canvas 2D",
+        "Perlin Noise",
+        "TypeScript",
+        "PWA"
+      ]
+    },
+    {
+      "name": "GlitchLab (Shaders CRT & Aberração)",
+      "url": "https://glitchlab.artesdosul.com/",
+      "description": "Estúdio de processamento visual com shaders WebGL, aberração cromática RGB, ruído VHS e gravação WebM.",
+      "keywords": [
+        "WebGL",
+        "GLSL Shaders",
+        "WebM Recorder",
+        "PWA"
+      ]
+    },
+    {
+      "name": "Mãe Maria (Portal Devocional & Liturgia)",
+      "url": "https://mae-maria.artesdosul.com/",
+      "description": "Santuário digital católico com Santo Terço guiado, ladainhas tradicionais e funcionamento 100% offline via PWA.",
+      "keywords": [
+        "PWA Offline",
+        "Web Audio API",
+        "Devocional",
+        "Liturgia"
+      ]
+    },
+    {
+      "name": "Oficina Maker & ESP-NOW Hub (IoT & Telemetria)",
+      "url": "https://oficina.artesdosul.com/",
+      "description": "Bancada de engenharia com pinouts de alta resolução, esquemáticos e rede sem fio ESP-NOW de ultrabaixa latência.",
+      "keywords": [
+        "IoT",
+        "ESP32",
+        "RP2040",
+        "ESP-NOW",
+        "Hardware"
+      ]
+    },
+    {
+      "name": "Hub de Tributos Históricos & Ayrton Senna Lotus 98T",
+      "url": "https://tributos.artesdosul.com/",
+      "description": "Central multimídia imersiva de preservação da memória histórica (Ayrton Senna, Leopoldina Imperial, Grandes Mulheres e Três Arcanjos).",
+      "keywords": [
+        "Memória Cultural",
+        "História",
+        "Áudio Imersivo",
+        "Design Editorial"
+      ]
+    },
+    {
+      "name": "Lawfare Timeline (Dossiê Investigativo)",
+      "url": "https://lawfare-timeline.vercel.app/",
+      "description": "Cronologia interativa e documentada sobre o fenômeno do lawfare, abusos de poder e transparência jurídica.",
+      "keywords": [
+        "OSINT",
+        "Investigação",
+        "Linha do Tempo",
+        "Jurimetria"
+      ]
+    },
+    {
+      "name": "Temas & Brand Studio (Design Systems)",
+      "url": "https://temas.artesdosul.com/",
+      "description": "Estúdio de 22 design systems cinematográficos com gerador de briefing estratégico e exportação de paletas.",
+      "keywords": [
+        "Design System",
+        "Color Palettes",
+        "Brand Strategy",
+        "UX/UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Técnico / Fluente para Leitura e Documentação"
+    },
+    {
+      "language": "Espanhol",
+      "fluency": "Básico / Instrumental"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Oceano & Natureza",
+      "keywords": [
+        "Stand Up Paddle",
+        "Surf",
+        "Meditação",
+        "Preservação Ecológica"
+      ]
+    },
+    {
+      "name": "Inteligência Artificial & Pesquisa",
+      "keywords": [
+        "Agentes Autônomos",
+        "Engenharia de Prompts",
+        "Modelos de Raciocínio",
+        "Novas Tecnologias"
+      ]
+    },
+    {
+      "name": "Hardware Aberto & Maker",
+      "keywords": [
+        "Microcontroladores",
+        "Impressão 3D",
+        "Energia Solar Off-Grid",
+        "Soberania Tecnológica"
+      ]
+    }
+  ]
+}
