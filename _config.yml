@@ -235,6 +235,11 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+
 
 plugins:
   - jekyll-paginate
