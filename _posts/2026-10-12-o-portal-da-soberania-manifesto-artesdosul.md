@@ -65,3 +65,20 @@ A tabela comparativa a seguir, destacada no artigo, sintetiza a ruptura entre o 
 
 ---
 
+## 🛠️ Engenharia Sob o Capô: Lições Práticas de 2026
+
+Além da visão estratégica, o artigo revisita os desafios práticos de engenharia documentados no [Diário de Desenvolvimento 2026](file:///d:/artesdosul/artesdosul.github.io/docs/diario-dev-2026-guia.md):
+
+1. **Blindagem de CI/CD**: A resolução do conflito de compilação da gem nativa `ffi` na migração do Ruby 2.6 para 3.3 no GitHub Actions.
+2. **Higiene do Bundler**: A exclusão imperativa de `vendor/bundle` no `_config.yml` para evitar recursão infinita no build estático.
+3. **Física Visual do Contraste**: O controle de *Stacking Context* e gradientes multicamadas em CSS para garantir conformidade estrita com normas WCAG AAA em títulos sobrepostos a imagens de alta densidade.
+
+> [!TIP]
+> **Acesso aos Ativos de Mídia**: A Hero Image do artigo foi produzida nas dimensões exatas de 1200×675 px (16:9), otimizada para o card de compartilhamento do X e convertida tanto em [WebP](/assets/img/artesdosul-blog-xarticle-hero.webp) quanto em [JPEG](/assets/img/artesdosul-blog-xarticle-hero.jpg). O prompt descritivo está devidamente registrado na seção editorial do [`README.md`](file:///d:/artesdosul/artesdosul.github.io/README.md).
+
+---
+
+## 🔗 Próximos Passos & Leitura Recomendada
+
+- Leia a versão integral pronta para publicação em: [`artigos/artesdosul-blog-xarticle.md`](file:///d:/artesdosul/artesdosul.github.io/artigos/artesdosul-blog-xarticle.md).
+- Para os desenvolvedores que desejam reproduzir o pipeline de CI/CD e governança, consulte o guia de referência em [`docs/diario-dev-2026-guia.md`](file:///d:/artesdosul/artesdosul.github.io/docs/diario-dev-2026-guia.md).
