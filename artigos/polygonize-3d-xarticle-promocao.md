@@ -1,6 +1,6 @@
 # Estratégia de Distribuição & Promoção no X.com — Polygonize 3D
 
-Use em conjunto com o artigo formatado [polygonize-3d-xarticle.md](file:///d:/artesdosul/artesdosul/artigos/polygonize-3d-xarticle.md) e a capa [polygonize-3d-xarticle-hero.jpg](file:///d:/artesdosul/artesdosul/artigos/polygonize-3d-xarticle-hero.jpg).
+Use em conjunto com o artigo formatado [polygonize-3d-xarticle.md](https://github.com/artesdosul/artesdosul/blob/main/artigos/polygonize-3d-xarticle.md) e a capa [polygonize-3d-xarticle-hero.jpg](https://github.com/artesdosul/artesdosul/blob/main/artigos/polygonize-3d-xarticle-hero.jpg).
 
 ---
 

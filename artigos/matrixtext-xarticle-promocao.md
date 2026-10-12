@@ -1,6 +1,6 @@
 # Estratégia de Distribuição & Promoção no X.com — MatrixText
 
-Use em conjunto com o artigo formatado [matrixtext-xarticle.md](file:///d:/artesdosul/artesdosul/artigos/matrixtext-xarticle.md) e a capa [matrixtext-xarticle-hero.jpg](file:///d:/artesdosul/artesdosul/artigos/matrixtext-xarticle-hero.jpg).
+Use em conjunto com o artigo formatado [matrixtext-xarticle.md](https://github.com/artesdosul/artesdosul/blob/main/artigos/matrixtext-xarticle.md) e a capa [matrixtext-xarticle-hero.jpg](https://github.com/artesdosul/artesdosul/blob/main/artigos/matrixtext-xarticle-hero.jpg).
 
 ---
 

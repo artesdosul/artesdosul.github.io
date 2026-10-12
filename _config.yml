@@ -109,7 +109,7 @@ keywords: "artesdosul,araguaci,surf,surfschool,surftrip,floripa"
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-# Paleta oficial Artes do Sul baseada em D:\artesdosul\artesdosul\themes\editors
+# Paleta oficial Artes do Sul baseada na suíte de temas (Dark/Light)
 
 navbar-col: "#0a1118"
 navbar-text-col: "#F8F4F2"

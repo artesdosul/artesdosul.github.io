@@ -32,6 +32,6 @@ Qual desses 7 pilares você considera o mais negligenciado no mercado hoje? Deix
 
 1. **Acessar**: [x.com/compose/article](https://x.com/compose/article)
 2. **Título**: `Web Skills & Engenharia Frontend: O Guia de Fundamentos para Desenvolvedores de Alta Performance`
-3. **Capa / Hero Image**: Fazer upload do arquivo [`assets/img/web-skills-xarticle-hero.webp`](file:///D:/artesdosul/artesdosul/assets/img/web-skills-xarticle-hero.webp)
-4. **Conteúdo**: Colar o markdown de [`artigos/web-skills-xarticle.md`](file:///D:/artesdosul/artesdosul/artigos/web-skills-xarticle.md)
+3. **Capa / Hero Image**: Fazer upload do arquivo [`assets/img/web-skills-xarticle-hero.webp`](https://github.com/artesdosul/artesdosul/blob/main/assets/img/web-skills-xarticle-hero.webp)
+4. **Conteúdo**: Colar o markdown de [`artigos/web-skills-xarticle.md`](https://github.com/artesdosul/artesdosul/blob/main/artigos/web-skills-xarticle.md)
 5. **Divulgação**: Postar o Tweet de Lançamento e adicionar o Primeiro Reply com o link externo.

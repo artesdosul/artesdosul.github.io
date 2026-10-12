@@ -16,7 +16,7 @@ Este portal reúne a documentação analítica de **56 plataformas digitais e mi
 
 ## 🎨 Modificações & Evolução do Tema (De Beautiful Jekyll para Artes do Sul Premium)
 
-O blog utilizou historicamente como base o tema de código aberto [Beautiful Jekyll](https://beautifuljekyll.com) (criado por [Dean Attali](https://deanattali.com)). A partir dessa estrutura, foi desenvolvido e implementado um **Design System Autoral de Alta Performance**, fundamentado nos tokens oficiais da suíte de editores de código do ecossistema localizados em [`D:\artesdosul\artesdosul\themes\editors`](file:///D:/artesdosul/artesdosul/themes/editors):
+O blog utilizou historicamente como base o tema de código aberto [Beautiful Jekyll](https://beautifuljekyll.com) (criado por [Dean Attali](https://deanattali.com)). A partir dessa estrutura, foi desenvolvido e implementado um **Design System Autoral de Alta Performance**, fundamentado nos tokens oficiais da suíte de temas do ecossistema Artes do Sul (`themes/editors`):
 - `artes-do-sul-dark-color-theme.json`
 - `artes-do-sul-light-color-theme.json`
 
@@ -135,6 +135,6 @@ bundle exec jekyll serve --livereload
 
 ## 📜 Créditos & Reconhecimento
 
-- **Fundador & Arquiteto**: [Araguaci Carlos de Andrade](file:///d:/artesdosul/artesdosul.github.io/aboutme.md) — Studio Artes do Sul, Bombinhas/SC.
+- **Fundador & Arquiteto**: [Araguaci Carlos de Andrade](https://artesdosul.github.io/aboutme) — Studio Artes do Sul, Bombinhas/SC.
 - **Template Base Histórico**: [Beautiful Jekyll](https://beautifuljekyll.com) por [Dean Attali](https://deanattali.com), estendido e evoluído para o ecossistema Artes do Sul.
 - **Licença**: MIT License.

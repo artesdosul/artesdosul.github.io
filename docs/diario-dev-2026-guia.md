@@ -1,9 +1,9 @@
 # 📓 Diário de Desenvolvimento 2026 (Daily.Dev) • Guia de Estrutura & Pipeline de Artigos
 
 > **Documento de Governança Editorial & Engenharia**  
-> **Origem dos Dados:** [`D:\app_aragua\araguaci.github.io\_data\daily.dev-01.yml`](file:///D:/app_aragua/araguaci.github.io/_data/daily.dev-01.yml)  
-> **Script de Ingestão:** [`D:\app_aragua\araguaci.github.io\import_daily_dev.py`](file:///D:/app_aragua/araguaci.github.io/import_daily_dev.py)  
-> **Destino dos Artigos:** [`D:\app_aragua\araguaci.github.io\_posts\`](file:///D:/app_aragua/araguaci.github.io/_posts/)  
+> **Origem dos Dados:** `_data/daily.dev-01.yml`  
+> **Script de Ingestão:** `scripts/import_daily_dev.py`  
+> **Destino dos Artigos:** `_posts/`  
 > **Data:** 01 de Outubro de 2026  
 > **Status:** Ativo & Sincronizado  
 
@@ -13,7 +13,7 @@
 
 Ao longo do ano de 2026, o ecossistema **Artes do Sul & Araguaci** desenvolveu e consolidou mais de 56 plataformas digitais, micro-SaaS, observatórios cívicos de inteligência OSINT e ecossistemas de hardware embarcado (IoT). 
 
-Para registrar metadados detalhados de aprendizado contínuo e transformá-los automaticamente em postagens ricas no blog pessoal do desenvolvedor ([`araguaci.github.io`](https://araguaci.github.io)), foi estruturada a base [`_data/daily.dev-01.yml`](file:///D:/app_aragua/araguaci.github.io/_data/daily.dev-01.yml).
+Para registrar metadados detalhados de aprendizado contínuo e transformá-los automaticamente em postagens ricas no blog pessoal do desenvolvedor ([`araguaci.github.io`](https://araguaci.github.io)), foi estruturada a base [`_data/daily.dev-01.yml`](D:/app_aragua/araguaci.github.io/_data/daily.dev-01.yml).
 
 Este guia documenta o esquema de dados adotado, a cobertura temática dos 16 registros iniciais e o fluxo de importação automatizada.
 
@@ -70,10 +70,10 @@ Cada entrada do diário segue uma taxonomia estrita e semântica:
 
 ## ⚡ Como Executar a Ingestão / Atualização de Artigos
 
-Sempre que novas entradas forem adicionadas ao [`daily.dev-01.yml`](file:///D:/app_aragua/araguaci.github.io/_data/daily.dev-01.yml), basta executar o pipeline de importação:
+Sempre que novas entradas forem adicionadas ao `_data/daily.dev-01.yml`, basta executar o pipeline de importação:
 
 ```powershell
-# No terminal ou na raiz de D:\app_aragua\araguaci.github.io
+# No terminal ou na raiz do projeto
 python import_daily_dev.py
 ```
 
@@ -81,4 +81,4 @@ O script lê a base YAML, valida chaves, compõe a estrutura de frontmatter e ge
 
 ---
 
-*Documento mantido pela Engenharia de Software Artes do Sul & Araguaci Hub. Base de dados em [`_data/daily.dev-01.yml`](file:///D:/app_aragua/araguaci.github.io/_data/daily.dev-01.yml).*
+*Documento mantido pela Engenharia de Software Artes do Sul & Araguaci Hub. Base de dados em `_data/daily.dev-01.yml`.*

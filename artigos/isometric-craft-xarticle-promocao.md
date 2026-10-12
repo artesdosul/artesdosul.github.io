@@ -1,6 +1,6 @@
 # Estratégia de Distribuição & Promoção no X.com — IsometricCraft
 
-Use em conjunto com o artigo formatado [isometric-craft-xarticle.md](file:///d:/artesdosul/artesdosul/artigos/isometric-craft-xarticle.md) e a capa [isometric-craft-xarticle-hero.jpg](file:///d:/artesdosul/artesdosul/artigos/isometric-craft-xarticle-hero.jpg).
+Use em conjunto com o artigo formatado [isometric-craft-xarticle.md](https://github.com/artesdosul/artesdosul/blob/main/artigos/isometric-craft-xarticle.md) e a capa [isometric-craft-xarticle-hero.jpg](https://github.com/artesdosul/artesdosul/blob/main/artigos/isometric-craft-xarticle-hero.jpg).
 
 ---
 

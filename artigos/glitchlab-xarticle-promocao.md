@@ -1,6 +1,6 @@
 # Estratégia de Distribuição & Promoção no X.com — GlitchLab
 
-Use em conjunto com o artigo formatado [glitchlab-xarticle.md](file:///d:/artesdosul/artesdosul/artigos/glitchlab-xarticle.md) e a capa [glitchlab-xarticle-hero.jpg](file:///d:/artesdosul/artesdosul/artigos/glitchlab-xarticle-hero.jpg).
+Use em conjunto com o artigo formatado [glitchlab-xarticle.md](https://github.com/artesdosul/artesdosul/blob/main/artigos/glitchlab-xarticle.md) e a capa [glitchlab-xarticle-hero.jpg](https://github.com/artesdosul/artesdosul/blob/main/artigos/glitchlab-xarticle-hero.jpg).
 
 ---
 

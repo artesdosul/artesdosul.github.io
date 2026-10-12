@@ -3,7 +3,7 @@
 > **Documento de Engenharia Frontend & Arquitetura Visual**  
 > **Ecossistema:** Artes do Sul (`artesdosul.github.io`)  
 > **Componente Afetado:** `.intro-header.big-img` (Header de Imagem em Destaque)  
-> **Arquivo Fonte:** [`assets/css/beautifuljekyll.css`](file:///d:/artesdosul/artesdosul.github.io/assets/css/beautifuljekyll.css#L615-L685)  
+> **Arquivo Fonte:** [`assets/css/beautifuljekyll.css`](https://github.com/artesdosul/artesdosul.github.io/blob/main/assets/css/beautifuljekyll.css#L615-L685)  
 > **Data:** 01 de Outubro de 2026  
 > **Status:** Implementado & Validado em Produção  
 
@@ -54,7 +54,7 @@ graph TD
 
 ---
 
-## 🛠️ Código Implementado em [`assets/css/beautifuljekyll.css`](file:///d:/artesdosul/artesdosul.github.io/assets/css/beautifuljekyll.css#L615-L685)
+## 🛠️ Código Implementado em [`assets/css/beautifuljekyll.css`](https://github.com/artesdosul/artesdosul.github.io/blob/main/assets/css/beautifuljekyll.css#L615-L685)
 
 O trecho compreendido entre as linhas 615 e 685 foi refatorado com as seguintes declarações padronizadas:
 
@@ -195,4 +195,4 @@ Ao ajustar estilos de header em Beautiful Jekyll, valide os seguintes pontos:
 
 ---
 
-*Documentação mantida pela Engenharia de Software Artes do Sul. Consulte [`assets/css/beautifuljekyll.css`](file:///d:/artesdosul/artesdosul.github.io/assets/css/beautifuljekyll.css) para o código em produção.*
+*Documentação mantida pela Engenharia de Software Artes do Sul. Consulte [`assets/css/beautifuljekyll.css`](https://github.com/artesdosul/artesdosul.github.io/blob/main/assets/css/beautifuljekyll.css) para o código em produção.*

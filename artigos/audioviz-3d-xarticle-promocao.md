@@ -1,6 +1,6 @@
 # Estratégia de Distribuição & Promoção no X.com — AudioVisualizer 3D
 
-Use em conjunto com o artigo formatado [audioviz-3d-xarticle.md](file:///d:/artesdosul/artesdosul/artigos/audioviz-3d-xarticle.md) e a capa [audioviz-3d-xarticle-hero.jpg](file:///d:/artesdosul/artesdosul/artigos/audioviz-3d-xarticle-hero.jpg).
+Use em conjunto com o artigo formatado [audioviz-3d-xarticle.md](https://github.com/artesdosul/artesdosul/blob/main/artigos/audioviz-3d-xarticle.md) e a capa [audioviz-3d-xarticle-hero.jpg](https://github.com/artesdosul/artesdosul/blob/main/artigos/audioviz-3d-xarticle-hero.jpg).
 
 ---
 

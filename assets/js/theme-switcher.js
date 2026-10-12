@@ -1,6 +1,6 @@
 /**
  * Artes do Sul Design System - Theme Switcher (Dark / Light)
- * Baseado nos tokens de cores oficiais: D:\artesdosul\artesdosul\themes\editors
+ * Baseado nos tokens de cores oficiais da suíte de temas Artes do Sul
  */
 
 (function () {

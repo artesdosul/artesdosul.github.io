@@ -1,6 +1,6 @@
 # 🚀 Playbook de Publicação & Distribuição: TOP 22 Projetos Artes do Sul
 
-Utilize em conjunto com o artigo [top-22-projetos-xarticle.md](file:///d:/artesdosul/artesdosul/artigos/top-22-projetos-xarticle.md) e a imagem de capa [top-22-projetos-xarticle-hero.webp](file:///d:/artesdosul/artesdosul/artigos/top-22-projetos-xarticle-hero.webp).
+Utilize em conjunto com o artigo [top-22-projetos-xarticle.md](https://github.com/artesdosul/artesdosul/blob/main/artigos/top-22-projetos-xarticle.md) e a imagem de capa [top-22-projetos-xarticle-hero.webp](https://github.com/artesdosul/artesdosul/blob/main/artigos/top-22-projetos-xarticle-hero.webp).
 
 ---
 

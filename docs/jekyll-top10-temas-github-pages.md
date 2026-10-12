@@ -27,7 +27,7 @@ O GitHub Pages suporta compilação em dois modos distintos:
    - Ideal para projetos que buscam manutenção mínima e atualizações automáticas do tema upstream.
 
 2. **Modo Base Customizada / GitHub Actions (CI/CD)**:
-   - Utilizado pelo repositório atual [`artesdosul.github.io`](file:///d:/artesdosul/artesdosul.github.io/).
+   - Utilizado pelo repositório atual [`artesdosul.github.io`](d:/artesdosul/artesdosul.github.io/).
    - Os arquivos de `_layouts/`, `_includes/` e `assets/` ficam versionados localmente, permitindo customizações pontuais de CSS (ex: ajustes de contraste em `intro-header.big-img`), scripts sob medida e controle granular de dependências.
 
 ---
@@ -112,7 +112,7 @@ flowchart LR
 ### Passo a Passo de Transição:
 
 1. **Preservação de Conteúdo**:
-   As pastas [`_posts/`](file:///d:/artesdosul/artesdosul.github.io/_posts/) e [`_data/`](file:///d:/artesdosul/artesdosul.github.io/_data/) são 100% agnósticas de tema e contêm o núcleo do conhecimento do portal.
+   As pastas [`_posts/`](https://github.com/artesdosul/artesdosul.github.io/blob/main/_posts/) e [`_data/`](https://github.com/artesdosul/artesdosul.github.io/blob/main/_data/) são 100% agnósticas de tema e contêm o núcleo do conhecimento do portal.
 2. **Mapeamento de Imagens**:
    - No **Beautiful Jekyll**: Usa-se `cover-img` e `image.path`.
    - No **Chirpy**: Usa-se `image: { path: /assets/img/... }`.
@@ -125,4 +125,4 @@ flowchart LR
 
 ---
 
-*Documento consolidado no repositório de engenharia Artes do Sul. Consulte [`docs/`](file:///d:/artesdosul/artesdosul.github.io/docs/) para outros manuais e guias de arquitetura.*
+*Documento consolidado no repositório de engenharia Artes do Sul. Consulte [`docs/`](https://github.com/artesdosul/artesdosul.github.io/blob/main/docs/) para outros manuais e guias de arquitetura.*

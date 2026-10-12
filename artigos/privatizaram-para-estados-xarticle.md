@@ -173,8 +173,8 @@ Wide editorial cover banner for investigative report. Dark background #080c10 wi
 ```
 
 *Arquivos gerados no projeto:*
-* Hero Banner (16:9): [`artigos/privatizaram-para-estados-hero.webp`](file:///d:/ai-projects/gosurf.site/artigos/privatizaram-para-estados-hero.webp)
-* Hero Banner para X Articles: [`artigos/privatizaram-para-estados-xarticle-hero.webp`](file:///d:/ai-projects/gosurf.site/artigos/privatizaram-para-estados-xarticle-hero.webp)
+* Hero Banner (16:9): [`artigos/privatizaram-para-estados-hero.webp`](d:/ai-projects/gosurf.site/artigos/privatizaram-para-estados-hero.webp)
+* Hero Banner para X Articles: [`artigos/privatizaram-para-estados-xarticle-hero.webp`](d:/ai-projects/gosurf.site/artigos/privatizaram-para-estados-xarticle-hero.webp)
 
 ---
 

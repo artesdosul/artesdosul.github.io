@@ -1,6 +1,6 @@
 # Estratégia de Distribuição & Promoção no X.com — ChromaMesh
 
-Use em conjunto com o artigo formatado [chromamesh-xarticle.md](file:///d:/artesdosul/artesdosul/artigos/chromamesh-xarticle.md) e a capa [chromamesh-xarticle-hero.jpg](file:///d:/artesdosul/artesdosul/artigos/chromamesh-xarticle-hero.jpg).
+Use em conjunto com o artigo formatado [chromamesh-xarticle.md](https://github.com/artesdosul/artesdosul/blob/main/artigos/chromamesh-xarticle.md) e a capa [chromamesh-xarticle-hero.jpg](https://github.com/artesdosul/artesdosul/blob/main/artigos/chromamesh-xarticle-hero.jpg).
 
 ---
 

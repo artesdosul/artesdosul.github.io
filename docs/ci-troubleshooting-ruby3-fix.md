@@ -3,7 +3,7 @@
 > **Documento de Engenharia DevOps & CI/CD**  
 > **Ecossistema:** Artes do Sul (`artesdosul.github.io`)  
 > **Incidente:** Falha no Job `110472529049` (PR #2 / Workflow `Beautiful Jekyll CI`)  
-> **Arquivo Modificado:** [`.github/workflows/ci.yml`](file:///d:/artesdosul/artesdosul.github.io/.github/workflows/ci.yml)  
+> **Arquivo Modificado:** [`.github/workflows/ci.yml`](https://github.com/artesdosul/artesdosul.github.io/blob/main/.github/workflows/ci.yml)  
 > **Data:** 01 de Outubro de 2026  
 > **Status:** Resolvido & Validado  
 
@@ -113,4 +113,4 @@ bundle exec jekyll build --future
 
 ---
 
-*Documento mantido pela Engenharia de Software Artes do Sul. Consulte [`docs/`](file:///d:/artesdosul/artesdosul.github.io/docs/) para outros relatórios técnicos.*
+*Documento mantido pela Engenharia de Software Artes do Sul. Consulte [`docs/`](https://github.com/artesdosul/artesdosul.github.io/blob/main/docs/) para outros relatórios técnicos.*
