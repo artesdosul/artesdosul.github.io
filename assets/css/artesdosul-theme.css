@@ -1,0 +1,698 @@
+/* ==========================================================================
+   ARTES DO SUL PREMIUM DESIGN SYSTEM — JEKYLL THEME
+   Baseado nas especificações oficiais de tokens em:
+   D:\artesdosul\artesdosul\themes\editors\artes-do-sul-dark-color-theme.json
+   D:\artesdosul\artesdosul\themes\editors\artes-do-sul-light-color-theme.json
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+:root {
+  /* ==========================================================================
+     TEMA ESCURO (PADRÃO SOBERANO ARTES DO SUL DARK)
+     ========================================================================== */
+  --as-bg: #0a1118;               /* Midnight Navy profundo */
+  --as-surface: #0f172a;          /* Slate 900 para cards e painéis */
+  --as-surface-hover: #162032;    /* Slate sutil para hover */
+  --as-elevated: #1e293b;         /* Slate 800 para inputs e tags */
+  --as-border: #334155;           /* Slate 700 para bordas nítidas */
+  --as-border-subtle: #1e293b;    /* Bordas suaves */
+  --as-border-focus: #FF7F50;
+
+  /* Cores de Assinatura Artes do Sul */
+  --as-coral: #FF7F50;            /* Coral Radiante - Acento Principal */
+  --as-coral-hover: #ff9670;
+  --as-wine: #691345;             /* Vinho Imperial Artes do Sul */
+  --as-wine-hover: #7d184f;
+  --as-wine-dark: #12060E;
+
+  /* Acentos Semânticos e Técnicos */
+  --as-sky: #38bdf8;              /* Sky Blue - Links e Funções */
+  --as-sky-hover: #7dd3fc;
+  --as-gold: #e6c458;             /* Dourado - Constantes e Badges */
+  --as-emerald: #10b981;          /* Verde Esmeralda - Strings e Sucesso */
+  --as-purple: #c084fc;           /* Roxo - Tipos e Classes */
+  --as-red: #ef4444;              /* Vermelho Erro */
+
+  /* Tipografia & Contraste (WCAG AAA) */
+  --as-text-primary: #F8F4F2;     /* Warm Off-White (Contraste 14.5:1 com #0a1118) */
+  --as-text-secondary: #94a3b8;   /* Slate 400 (Contraste 5.8:1 com #0a1118) */
+  --as-text-muted: #64748b;       /* Slate 500 para metadados */
+  --as-text-inverse: #0a1118;
+
+  /* Glassmorphism & Elevação */
+  --as-glass-bg: rgba(10, 17, 24, 0.88);
+  --as-glass-border: rgba(255, 127, 80, 0.22);
+  --as-glass-blur: blur(16px);
+  --as-shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.35);
+  --as-shadow-md: 0 6px 24px rgba(0, 0, 0, 0.5);
+  --as-shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.65);
+  --as-shadow-glow: 0 0 24px rgba(255, 127, 80, 0.16);
+
+  /* Font Stacks */
+  --as-font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --as-font-serif: 'Lora', 'Georgia', serif;
+  --as-font-mono: 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace;
+}
+
+/* ==========================================================================
+   TEMA CLARO (ARTES DO SUL LIGHT - BASEADO EM artes-do-sul-light-color-theme.json)
+   ========================================================================== */
+[data-theme="light"],
+body.light-theme {
+  --as-bg: #FFF6F2;               /* Fundo Porcelana Quente */
+  --as-surface: #FFFFFF;          /* Cartões em branco puro */
+  --as-surface-hover: #F8EDE8;    /* Superfície com tom pêssego suave */
+  --as-elevated: #F3E6E0;         /* Superfície elevada */
+  --as-border: #E7D8D2;           /* Bordas neutras quentes */
+  --as-border-subtle: #F3E6E0;
+  --as-border-focus: #691345;
+
+  /* Assinatura no modo claro */
+  --as-coral: #691345;            /* Vinho como destaque de alto contraste */
+  --as-coral-hover: #7d184f;
+  --as-wine: #FF7F50;
+  --as-wine-hover: #ff9670;
+  --as-wine-dark: #12060E;
+
+  --as-sky: #0369a1;              /* Dark Sky Blue (contraste 6.5:1 com #FFF6F2) */
+  --as-sky-hover: #0284c7;
+  --as-gold: #A16207;
+  --as-emerald: #047857;
+  --as-purple: #7e22ce;
+  --as-red: #C62828;
+
+  --as-text-primary: #1A1016;     /* Deep Plum Espresso (Contraste 15.2:1) */
+  --as-text-secondary: #6B5360;   /* Muted Plum (Contraste 5.5:1) */
+  --as-text-muted: #8c7380;
+  --as-text-inverse: #FFF6F2;
+
+  --as-glass-bg: rgba(255, 246, 242, 0.92);
+  --as-glass-border: rgba(105, 19, 69, 0.18);
+  --as-glass-blur: blur(16px);
+  --as-shadow-sm: 0 2px 10px rgba(105, 19, 69, 0.06);
+  --as-shadow-md: 0 6px 24px rgba(105, 19, 69, 0.12);
+  --as-shadow-lg: 0 12px 40px rgba(105, 19, 69, 0.18);
+  --as-shadow-glow: 0 0 24px rgba(105, 19, 69, 0.1);
+}
+
+/* ==========================================================================
+   RESET & FUNDAMENTOS GLOBAIS
+   ========================================================================== */
+html {
+  background-color: var(--as-bg);
+  color-scheme: dark light;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--as-bg) !important;
+  color: var(--as-text-primary) !important;
+  font-family: var(--as-font-serif);
+  font-size: 1.125rem;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+/* Acentos de Seleção e Scrollbar */
+::selection {
+  background: rgba(105, 19, 69, 0.8) !important;
+  color: #FFF6F2 !important;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--as-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(105, 19, 69, 0.65);
+  border-radius: 5px;
+  border: 2px solid var(--as-bg);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--as-coral);
+}
+
+/* Links Globais */
+a {
+  color: var(--as-sky) !important;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+a:hover,
+a:focus {
+  color: var(--as-coral) !important;
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   BARRA DE NAVEGAÇÃO PREMIUM (GLASSMORPHISM & CYBER-GROWTH)
+   ========================================================================== */
+.navbar-custom {
+  background-color: var(--as-glass-bg) !important;
+  backdrop-filter: var(--as-glass-blur) !important;
+  -webkit-backdrop-filter: var(--as-glass-blur) !important;
+  border-bottom: 1px solid var(--as-glass-border) !important;
+  box-shadow: var(--as-shadow-sm) !important;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.navbar-custom .navbar-brand {
+  font-family: var(--as-font-sans) !important;
+  font-weight: 800 !important;
+  color: var(--as-text-primary) !important;
+  letter-spacing: -0.02em;
+  font-size: 1.25rem !important;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-custom .navbar-brand:hover {
+  color: var(--as-coral) !important;
+  text-shadow: 0 0 15px rgba(255, 127, 80, 0.4);
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  font-family: var(--as-font-sans) !important;
+  font-weight: 700 !important;
+  color: var(--as-text-primary) !important;
+  font-size: 0.8125rem !important;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.navbar-custom .navbar-nav .nav-link:hover,
+.navbar-custom .navbar-nav .nav-link:focus {
+  color: var(--as-coral) !important;
+  transform: translateY(-1px);
+}
+
+/* Dropdown Menu com visual Cyber Card */
+.navbar-custom .nav-item.dropdown .dropdown-menu {
+  background-color: var(--as-surface) !important;
+  border: 1px solid var(--as-border) !important;
+  border-radius: 10px !important;
+  box-shadow: var(--as-shadow-lg) !important;
+  padding: 0.5rem 0 !important;
+  overflow: hidden;
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+  font-family: var(--as-font-sans) !important;
+  font-size: 0.875rem !important;
+  font-weight: 600 !important;
+  color: var(--as-text-primary) !important;
+  background-color: transparent !important;
+  padding: 0.65rem 1.25rem !important;
+  border: none !important;
+  transition: background-color 0.2s ease, color 0.2s ease, padding-left 0.2s ease;
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:hover,
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:focus {
+  background-color: var(--as-wine) !important;
+  color: #FFF6F2 !important;
+  padding-left: 1.5rem !important;
+}
+
+/* Avatar com Anel Cósmico */
+.navbar-custom .avatar-container .avatar-img-border {
+  border: 2px solid var(--as-coral) !important;
+  box-shadow: 0 0 18px rgba(255, 127, 80, 0.4) !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.navbar-custom .avatar-container:hover .avatar-img-border {
+  transform: scale(1.06);
+  box-shadow: 0 0 25px rgba(255, 127, 80, 0.7) !important;
+}
+
+/* Botão Alternador de Tema */
+.theme-toggle-btn {
+  background: transparent;
+  border: 1px solid var(--as-border);
+  color: var(--as-coral);
+  border-radius: 8px;
+  padding: 0.45rem 0.75rem;
+  margin-left: 0.75rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle-btn:hover {
+  background: var(--as-elevated);
+  border-color: var(--as-coral);
+  transform: scale(1.05);
+}
+
+/* ==========================================================================
+   HEADER HERÓICO COM IMAGEM EM DESTAQUE (BLINDAGEM DE CONTRASTE WCAG AAA)
+   ========================================================================== */
+.intro-header.big-img {
+  position: relative;
+  overflow: hidden;
+}
+
+/* 1. Camada de Overlay Escuro com Gradiente Fóton-Protetor */
+.intro-header.big-img::before {
+  content: "" !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  background: linear-gradient(
+    180deg,
+    rgba(10, 17, 24, 0.65) 0%,
+    rgba(10, 17, 24, 0.84) 45%,
+    rgba(10, 17, 24, 0.98) 100%
+  ) !important;
+  z-index: 1 !important;
+  pointer-events: none !important;
+}
+
+/* 2. Elevação Estrutural do Texto Acima do Overlay */
+.intro-header.big-img .container-md,
+.intro-header.big-img .container-fluid {
+  position: relative !important;
+  z-index: 2 !important;
+}
+
+/* 3. Tipografia Heróica com Sombra de Alta Definição */
+.intro-header.big-img .page-heading h1,
+.intro-header.big-img .post-heading h1 {
+  font-family: var(--as-font-sans) !important;
+  font-weight: 800 !important;
+  color: #FFFFFF !important;
+  letter-spacing: -0.03em !important;
+  line-height: 1.2 !important;
+  text-shadow: 
+    0 2px 6px rgba(0, 0, 0, 0.95),
+    0 4px 18px rgba(0, 0, 0, 0.85),
+    0 8px 32px rgba(0, 0, 0, 0.75) !important;
+}
+
+.intro-header.big-img .page-heading .page-subheading,
+.intro-header.big-img .post-heading .post-subheading {
+  font-family: var(--as-font-sans) !important;
+  font-weight: 400 !important;
+  color: #F8F4F2 !important;
+  font-size: 1.35rem !important;
+  line-height: 1.5 !important;
+  text-shadow: 
+    0 2px 4px rgba(0, 0, 0, 0.95),
+    0 4px 12px rgba(0, 0, 0, 0.85) !important;
+}
+
+.intro-header.big-img .post-heading .post-meta {
+  font-family: var(--as-font-mono) !important;
+  color: #cbd5e1 !important;
+  font-size: 0.9rem !important;
+  font-style: normal !important;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.9) !important;
+}
+
+/* Header comum (sem imagem grande) */
+.intro-header:not(.big-img) {
+  background: var(--as-bg) !important;
+  padding: 4rem 0 2rem !important;
+  border-bottom: 1px solid var(--as-border-subtle);
+  margin-bottom: 2.5rem;
+}
+
+.intro-header:not(.big-img) .page-heading h1,
+.intro-header:not(.big-img) .post-heading h1 {
+  color: var(--as-coral) !important;
+  font-family: var(--as-font-sans) !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.02em;
+}
+
+.intro-header:not(.big-img) .page-subheading,
+.intro-header:not(.big-img) .post-subheading {
+  color: var(--as-text-secondary) !important;
+  font-family: var(--as-font-sans) !important;
+}
+
+/* ==========================================================================
+   FEED DE POSTS (CARDS CYBER-GROWTH COM ALTA DENSIDADE)
+   ========================================================================== */
+.posts-list .post-preview {
+  background-color: var(--as-surface) !important;
+  border: 1px solid var(--as-border-subtle) !important;
+  border-radius: 14px !important;
+  padding: 2.25rem 2.5rem !important;
+  margin-bottom: 2.25rem !important;
+  box-shadow: var(--as-shadow-sm) !important;
+  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.28s ease,
+              box-shadow 0.28s ease !important;
+  position: relative;
+  overflow: hidden;
+}
+
+.posts-list .post-preview:hover {
+  transform: translateY(-4px) !important;
+  border-color: rgba(255, 127, 80, 0.45) !important;
+  box-shadow: var(--as-shadow-md), var(--as-shadow-glow) !important;
+}
+
+/* Título e Subtítulo do Post */
+.post-preview .post-title {
+  font-family: var(--as-font-sans) !important;
+  font-weight: 700 !important;
+  font-size: 1.75rem !important;
+  color: var(--as-text-primary) !important;
+  line-height: 1.3 !important;
+  letter-spacing: -0.02em !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.6rem !important;
+  transition: color 0.2s ease;
+}
+
+.post-preview a:hover .post-title,
+.post-preview a:focus .post-title {
+  color: var(--as-coral) !important;
+}
+
+.post-preview .post-subtitle {
+  font-family: var(--as-font-sans) !important;
+  font-weight: 400 !important;
+  font-size: 1.1rem !important;
+  color: var(--as-text-secondary) !important;
+  line-height: 1.5 !important;
+  margin-bottom: 1rem !important;
+}
+
+/* Metadados do Post */
+.post-preview .post-meta {
+  font-family: var(--as-font-mono) !important;
+  font-size: 0.825rem !important;
+  color: var(--as-text-muted) !important;
+  font-style: normal !important;
+  margin-bottom: 1rem !important;
+  letter-spacing: 0.02em;
+}
+
+/* Excerpt / Resumo */
+.post-preview .post-entry {
+  color: var(--as-text-secondary) !important;
+  font-size: 1.05rem !important;
+  line-height: 1.7 !important;
+}
+
+/* Botão [Read More] Estilizado */
+.post-read-more {
+  display: inline-block !important;
+  margin-top: 0.6rem !important;
+  padding: 0.35rem 0.95rem !important;
+  font-size: 0.8rem !important;
+  font-family: var(--as-font-mono) !important;
+  font-weight: 600 !important;
+  color: var(--as-coral) !important;
+  background: rgba(255, 127, 80, 0.08) !important;
+  border: 1px solid rgba(255, 127, 80, 0.3) !important;
+  border-radius: 6px !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease !important;
+}
+
+.post-read-more:hover {
+  background: var(--as-coral) !important;
+  color: #0a1118 !important;
+  border-color: var(--as-coral) !important;
+  box-shadow: 0 0 14px rgba(255, 127, 80, 0.45) !important;
+}
+
+/* Imagens Thumbnail dos Posts */
+.post-preview .post-image img {
+  border-radius: 10px !important;
+  border: 1px solid var(--as-border) !important;
+  box-shadow: var(--as-shadow-sm) !important;
+  transition: transform 0.3s ease, filter 0.3s ease !important;
+  filter: grayscale(10%) !important;
+}
+
+.post-preview .post-image:hover img {
+  filter: grayscale(0%) !important;
+  transform: scale(1.03) !important;
+}
+
+/* Badges de Tags */
+.blog-tags {
+  margin-top: 1rem !important;
+}
+
+.blog-tags span {
+  font-family: var(--as-font-mono);
+  font-size: 0.8rem;
+  color: var(--as-text-muted);
+  margin-right: 0.4rem;
+}
+
+.blog-tags a {
+  display: inline-block !important;
+  margin: 0.2rem 0.3rem 0.2rem 0 !important;
+  padding: 0.25rem 0.75rem !important;
+  font-size: 0.78rem !important;
+  font-family: var(--as-font-mono) !important;
+  color: var(--as-sky) !important;
+  background: var(--as-elevated) !important;
+  border: 1px solid var(--as-border) !important;
+  border-radius: 999px !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease !important;
+}
+
+.blog-tags a:hover {
+  color: #0a1118 !important;
+  background: var(--as-coral) !important;
+  border-color: var(--as-coral) !important;
+  box-shadow: 0 0 12px rgba(255, 127, 80, 0.35) !important;
+}
+
+/* ==========================================================================
+   CONTEÚDO DO ARTIGO (BLOG POST & PÁGINAS)
+   ========================================================================== */
+.blog-post {
+  color: var(--as-text-primary) !important;
+  font-family: var(--as-font-serif) !important;
+  font-size: 1.15rem !important;
+  line-height: 1.85 !important;
+}
+
+.blog-post h1,
+.blog-post h2,
+.blog-post h3,
+.blog-post h4 {
+  font-family: var(--as-font-sans) !important;
+  letter-spacing: -0.02em !important;
+  margin-top: 2.25rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.blog-post h1 {
+  font-size: 2.25rem !important;
+  color: var(--as-coral) !important;
+  border-bottom: 2px solid var(--as-wine);
+  padding-bottom: 0.6rem;
+}
+
+.blog-post h2 {
+  font-size: 1.8rem !important;
+  color: var(--as-text-primary) !important;
+  border-left: 4px solid var(--as-coral);
+  padding-left: 0.85rem;
+}
+
+.blog-post h3 {
+  font-size: 1.4rem !important;
+  color: var(--as-gold) !important;
+}
+
+.blog-post p {
+  margin: 1.5rem 0 !important;
+}
+
+/* Citações Elegantes */
+.blog-post blockquote {
+  background: var(--as-surface) !important;
+  border-left: 4px solid var(--as-wine) !important;
+  border-radius: 0 10px 10px 0 !important;
+  padding: 1.25rem 1.6rem !important;
+  color: var(--as-text-secondary) !important;
+  font-style: italic !important;
+  margin: 2rem 0 !important;
+  box-shadow: var(--as-shadow-sm) !important;
+}
+
+.blog-post blockquote p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Callouts Estilo GitHub / Artes do Sul */
+.blog-post blockquote strong:first-child {
+  color: var(--as-coral);
+  font-style: normal;
+}
+
+/* Tabelas de Alta Densidade */
+.blog-post table {
+  width: 100% !important;
+  margin: 2rem 0 !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  border: 1px solid var(--as-border) !important;
+  box-shadow: var(--as-shadow-sm) !important;
+}
+
+.blog-post table th {
+  background-color: var(--as-elevated) !important;
+  color: var(--as-coral) !important;
+  font-family: var(--as-font-mono) !important;
+  font-size: 0.85rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  border-bottom: 2px solid var(--as-border) !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  padding: 0.85rem 1.15rem !important;
+}
+
+.blog-post table td {
+  background-color: var(--as-surface) !important;
+  color: var(--as-text-primary) !important;
+  border-bottom: 1px solid var(--as-border-subtle) !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  padding: 0.85rem 1.15rem !important;
+  font-size: 0.95rem !important;
+}
+
+.blog-post table tr:nth-child(2n) td {
+  background-color: var(--as-surface-hover) !important;
+}
+
+.blog-post table tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* Blocos de Código (Syntax Highlighting Baseado no Tema Oficial) */
+code {
+  font-family: var(--as-font-mono) !important;
+  font-size: 0.9em !important;
+  color: var(--as-coral) !important;
+  background-color: var(--as-elevated) !important;
+  border: 1px solid var(--as-border) !important;
+  border-radius: 5px !important;
+  padding: 0.15rem 0.45rem !important;
+}
+
+pre {
+  background-color: var(--as-surface) !important;
+  border: 1px solid var(--as-border) !important;
+  border-left: 4px solid var(--as-wine) !important;
+  border-radius: 10px !important;
+  padding: 1.25rem 1.5rem !important;
+  box-shadow: var(--as-shadow-sm) !important;
+  overflow-x: auto;
+}
+
+pre code {
+  background-color: transparent !important;
+  border: none !important;
+  color: var(--as-text-primary) !important;
+  padding: 0 !important;
+}
+
+.highlight > pre {
+  background-image: none !important;
+  background-color: var(--as-surface) !important;
+}
+
+/* Paginação entre Posts */
+.pagination .page-item .page-link {
+  background-color: var(--as-surface) !important;
+  color: var(--as-coral) !important;
+  border: 1px solid var(--as-border) !important;
+  border-radius: 8px !important;
+  font-family: var(--as-font-mono) !important;
+  font-size: 0.825rem !important;
+  letter-spacing: 0.05em !important;
+  padding: 0.75rem 1.25rem !important;
+  transition: all 0.2s ease !important;
+}
+
+.pagination .page-item .page-link:hover,
+.pagination .page-item .page-link:focus {
+  background-color: var(--as-wine) !important;
+  color: #FFF6F2 !important;
+  border-color: var(--as-wine) !important;
+  box-shadow: 0 0 16px rgba(105, 19, 69, 0.45) !important;
+}
+
+/* ==========================================================================
+   RODAPÉ (FOOTER SOBERANO)
+   ========================================================================== */
+footer {
+  background-color: var(--as-bg) !important;
+  border-top: 1px solid var(--as-border) !important;
+  padding: 3.5rem 0 2.5rem !important;
+  margin-top: 4rem !important;
+}
+
+footer p.text-muted,
+footer .copyright,
+footer .theme-by {
+  font-family: var(--as-font-sans) !important;
+  color: var(--as-text-secondary) !important;
+  font-size: 0.9rem !important;
+}
+
+footer a {
+  color: var(--as-sky) !important;
+}
+
+footer a:hover {
+  color: var(--as-coral) !important;
+}
+
+footer .list-inline-item .fa-stack-2x {
+  color: var(--as-surface) !important;
+  transition: color 0.2s ease;
+}
+
+footer .list-inline-item .fa-stack-1x {
+  color: var(--as-coral) !important;
+  transition: color 0.2s ease;
+}
+
+footer .list-inline-item:hover .fa-stack-2x {
+  color: var(--as-wine) !important;
+}
+
+footer .list-inline-item:hover .fa-stack-1x {
+  color: #FFF6F2 !important;
+}
+
+/* ==========================================================================
+   ACESSIBILIDADE & FOCO VISÍVEL
+   ========================================================================== */
+:focus-visible {
+  outline: 2px solid var(--as-coral) !important;
+  outline-offset: 3px !important;
+}

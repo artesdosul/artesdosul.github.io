@@ -149,4 +149,13 @@
     {% endfor %}
   {% endif %}
 
+  <script>
+    (function() {
+      try {
+        var t = localStorage.getItem('artesdosul_theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch(e) {}
+    })();
+  </script>
+
 </head>
