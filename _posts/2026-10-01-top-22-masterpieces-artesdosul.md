@@ -3,7 +3,8 @@ layout: post
 title: "TOP 22 Masterpieces • O Ápice da Engenharia & Design do Ecossistema Artes do Sul"
 subtitle: "Curadoria estratégica dos 22 projetos mais avançados em Inteligência Cívica, OSINT, Cyber-Growth e Aplicações Soberanas"
 description: "Apresentação dos TOP 22 projetos do portfólio Artes do Sul: observatórios auditáveis, plataformas PWA offline-first, ferramentas para desenvolvedores e estúdios imersivos."
-date: 2026-10-01 12:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-top-22-masterpieces-artesdosul/
 cover-img: /assets/img/showcase-artesdosul-xarticle-hero.webp
 thumbnail-img: /assets/img/showcase-artesdosul-xarticle-hero.webp
 share-img: /assets/img/showcase-artesdosul-xarticle-hero.webp
@@ -21,7 +22,7 @@ links:
 
 - [💎 Explorar Galeria de Modelos Masterpiece](https://modelos.artesdosul.com/)
 - [🛡️ Acessar Sentinel Ecosistema Selva](https://selva.artesdosul.com/)
-- [📁 Ver Dados Estruturados `_data/top22.json`](/_data/top22.json)
+- [📁 Ver Dados Estruturados `data/top22.json`]({{ '/data/top22.json' | relative_url }})
 
 > “A excelência técnica não é um ato fortuito; é um hábito sustentado por mais de duas décadas e meia de código limpo, soberania de dados e rigor estético.”  
 > — **Artes do Sul**, 2026.

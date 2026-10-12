@@ -3,7 +3,8 @@ layout: post
 title: "GoSurf Insights Central • Portal Editorial de Ensaios Geopolíticos & Soberania"
 subtitle: "Jornalismo de alta densidade analítica, economia global, segurança pública e filosofia política"
 description: "Portal moderno de publicações analíticas e ensaios aprofundados sobre geopolítica, economia global, segurança pública e soberania nacional. Construído em Astro e MDX."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-gosurf-insights-central/
 cover-img: /assets/img/gosurf-hero.webp
 thumbnail-img: /assets/img/gosurf-hero.webp
 share-img: /assets/img/gosurf-hero.webp
@@ -73,7 +74,7 @@ O projeto **GoSurf Insights Central** integra o seleto grupo dos **TOP 22 Master
 * [Lawfare Timeline](https://lawfare-timeline.vercel.app/) — Cronologia da guerra jurídica e perseguição política.
 * [Intel & Strategy](https://modelos.artesdosul.com/apps/intel-strategy.html) — Cockpit OSINT para situação de crise.
 * [Central de Suporte Artes do Sul](https://suporte.artesdosul.com/) — Central oficial de suporte do ecossistema.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://gosurf.site](https://gosurf.site).*

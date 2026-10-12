@@ -3,7 +3,8 @@ layout: post
 title: "Intel & Strategy • Situation Room 4.0 & Cockpit OSINT em Alta Densidade"
 subtitle: "Dashboard de monitoramento de cenários críticos, feeds de inteligência, matriz de risco e estratégia clássica"
 description: "Dashboard de inteligência estratégica e monitoramento de cenários críticos em tela cheia, integrando feed OSINT, matriz de risco e princípios clássicos de estratégia."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-intel-strategy/
 cover-img: /assets/img/intel-strategy-hero.webp
 thumbnail-img: /assets/img/intel-strategy-hero.webp
 share-img: /assets/img/intel-strategy-hero.webp
@@ -73,7 +74,7 @@ O projeto **Intel & Strategy** integra o seleto grupo dos **TOP 22 Masterpieces*
 * [GoSurf Insights Central](https://gosurf.site) — Ensaios aprofundados sobre geopolítica e economia de guerra.
 * [DevStudio Alpha](https://modelos.artesdosul.com/apps/devstudio-alpha.html) — Utilitários criptográficos e de validação local.
 * [Portal Artes do Sul](https://artesdosul.com/) — Soluções soberanas para internet com arte.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://modelos.artesdosul.com/apps/intel-strategy.html](https://modelos.artesdosul.com/apps/intel-strategy.html).*

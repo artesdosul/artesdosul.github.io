@@ -3,7 +3,8 @@ layout: post
 title: "JusMonitor • Jurimetria & Accountability do Poder Judiciário Brasileiro"
 subtitle: "Painel analítico de captura institucional, supersalários e decisões de alto impacto com corpus público CC0"
 description: "Painel analítico de captura institucional do Judiciário e decisões de alto impacto, operando com evidências auditadas (R1–R7) e links diretos para diários oficiais e decisões judiciais."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-jusmonitor/
 cover-img: /assets/img/jusmonitor-hero.webp
 thumbnail-img: /assets/img/jusmonitor-hero.webp
 share-img: /assets/img/jusmonitor-hero.webp
@@ -73,7 +74,7 @@ O projeto **JusMonitor** integra o seleto grupo dos **TOP 22 Masterpieces** do e
 * [Transparentia Hub](https://modelos.artesdosul.com/apps/portal-transparencia.html) — Inteligência fiscal e comparativo salarial no setor público nacional.
 * [Vítimas do Estado](https://vitimas-do-estado.vercel.app/) — Casos documentados de abusos jurisdicionais com danos civis irreparáveis.
 * [Ecosistema Selva](https://selva.artesdosul.com/) — Central Sentinel integradora dos portais investigativos.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://jusmonitor.vercel.app/](https://jusmonitor.vercel.app/).*

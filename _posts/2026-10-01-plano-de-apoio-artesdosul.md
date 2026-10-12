@@ -3,7 +3,8 @@ layout: post
 title: "Plano de Apoio & Patronato Digital • Preservando o Ecossistema Artes do Sul"
 subtitle: "Como apoiar o desenvolvimento de software livre, arte generativa e preservação cultural independente"
 description: "Conheça o Plano de Apoio do estúdio Artes do Sul: sustentabilidade, patronato independente de software livre, P&D e manutenção de dezenas de portais gratuitos."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-plano-de-apoio-artesdosul/
 cover-img: /assets/img/apoio-artesdosul-hero.webp
 thumbnail-img: /assets/img/apoio-artesdosul-hero.webp
 share-img: /assets/img/apoio-artesdosul-hero.webp

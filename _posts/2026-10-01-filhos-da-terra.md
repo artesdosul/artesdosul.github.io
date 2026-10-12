@@ -3,7 +3,8 @@ layout: post
 title: "Os Filhos da Terra • A Carta do Chefe Seattle & A Teia da Vida"
 subtitle: "Manifesto ecológico de 1854 com paisagem sonora em 432Hz, fogueira do compromisso e sabedoria ancestral"
 description: "Celebração do mais belo manifesto ecológico da história: a Carta do Chefe Seattle em 8 cantos contemplativos, sintetizador sonoro procedural 432Hz, fogueira de pacto e arquétipos cósmicos."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-filhos-da-terra/
 cover-img: /assets/img/filhosdaterra-hero.jpg
 thumbnail-img: /assets/img/filhosdaterra-hero.jpg
 share-img: /assets/img/filhosdaterra-hero.jpg
@@ -73,7 +74,7 @@ O projeto **Os Filhos da Terra** integra o seleto grupo dos **TOP 22 Masterpiece
 * [Sabor Brazil](https://sabor-brazil.vercel.app/) — Defesa da integridade dos alimentos puros e contra a degradação industrial.
 * [Biblioteca Olavo de Carvalho](https://olavodecarvalho.vercel.app/) — Acervo de filosofia e resgate dos valores perenes da civilização.
 * [Portal Artes do Sul](https://artesdosul.com/) — Criação digital fundamentada na beleza, técnica e alma.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://filhosdaterra.artesdosul.com/](https://filhosdaterra.artesdosul.com/).*

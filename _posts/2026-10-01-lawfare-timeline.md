@@ -3,7 +3,8 @@ layout: post
 title: "Lawfare Timeline • Cronologia da Guerra Jurídica & Dossiê de Abusos Institucionais"
 subtitle: "Análise minuciosa sobre a instrumentalização do sistema penal e do judiciário para perseguição política"
 description: "Cronologia minuciosa sobre o uso estratégico do sistema legal com fins políticos, cruzando atores estatais, privados, decisões de tribunais superiores e repercussão internacional."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-lawfare-timeline/
 cover-img: /assets/img/lawfare-hero.webp
 thumbnail-img: /assets/img/lawfare-hero.webp
 share-img: /assets/img/lawfare-hero.webp
@@ -73,7 +74,7 @@ O projeto **Lawfare Timeline** integra o seleto grupo dos **TOP 22 Masterpieces*
 * [Vítimas do Estado](https://vitimas-do-estado.vercel.app/) — Registro e memória dos perseguidos políticos e prisioneiros sem justa causa.
 * [GoSurf Insights Central](https://gosurf.site) — Ensaios geopolíticos e investigações sobre soberania e liberdade civil.
 * [Ecosistema Selva](https://selva.artesdosul.com/) — Hub Sentinel coordenador do acervo investigativo.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://lawfare-timeline.vercel.app/](https://lawfare-timeline.vercel.app/).*

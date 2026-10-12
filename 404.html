@@ -7,9 +7,22 @@ permalink: /404.html
 <script>
   (function() {
     var path = window.location.pathname;
-    // Intercepta requisições errôneas do tipo /_posts/YYYY-MM-DD-slug.html e redireciona para a URL canônica
-    if (path.indexOf('/_posts/') !== -1) {
-      var target = path.replace('/_posts/', '/').replace(/\.html$/, '');
+    var target = path;
+    var changed = false;
+
+    // 1. Intercepta requisições legadas do tipo /_posts/YYYY-MM-DD-slug.html
+    if (target.indexOf('/_posts/') !== -1) {
+      target = target.replace('/_posts/', '/').replace(/\.html$/, '');
+      changed = true;
+    }
+
+    // 2. Intercepta posts gerados com a data do fuso antigo (2026-09-30) e redireciona para 2026-10-01
+    if (target.indexOf('2026-09-30-') !== -1) {
+      target = target.replace('2026-09-30-', '2026-10-01-');
+      changed = true;
+    }
+
+    if (changed) {
       if (!target.endsWith('/')) target += '/';
       window.location.replace(target);
     }

@@ -3,7 +3,8 @@ layout: post
 title: "Sabor Brazil • O Nome Não É a Coisa: Integridade na Rotulagem de Alimentos"
 subtitle: "Observatório contra adulteração industrial, ingredientes enganosos e assimetria regulatória no mercado brasileiro"
 description: "Catálogo investigativo aberto centrado no princípio 'o nome não é a coisa', desmascarando rotulagem enganosa, assimetria regulatória e desvios industriais no mercado alimentício."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-sabor-brazil/
 cover-img: /assets/img/sabor-brazil-hero.webp
 thumbnail-img: /assets/img/sabor-brazil-hero.webp
 share-img: /assets/img/sabor-brazil-hero.webp
@@ -73,7 +74,7 @@ O projeto **Sabor Brazil** integra o seleto grupo dos **TOP 22 Masterpieces** do
 * [Observatório Civil BR](https://observatorio-civil-br.vercel.app/) — Auditoria de captura regulatória e conluio corporativo estatal.
 * [Modelos Artes do Sul](https://modelos.artesdosul.com/) — Design system e engenharia web de alto impacto.
 * [Central de Suporte Artes do Sul](https://suporte.artesdosul.com/) — Atendimento e canais oficiais.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://sabor-brazil.vercel.app/](https://sabor-brazil.vercel.app/).*

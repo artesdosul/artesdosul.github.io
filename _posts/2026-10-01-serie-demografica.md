@@ -3,7 +3,8 @@ layout: post
 title: "Série Demográfica • Data Science Epidemiológico & Séries Históricas DATASUS 2014–2025"
 subtitle: "Monitor de mortalidade histórica, anomalias demográficas e cruzamento de registros civis no Brasil"
 description: "Observatório de mortalidade histórica (2014–2025) cruzando dados oficiais do SIM/DATASUS e Registro Civil para análise de anomalias epidemiológicas e causas de óbito."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-serie-demografica/
 cover-img: /assets/img/serie-demografica-hero.webp
 thumbnail-img: /assets/img/serie-demografica-hero.webp
 share-img: /assets/img/serie-demografica-hero.webp
@@ -73,7 +74,7 @@ O projeto **Série Demográfica** integra o seleto grupo dos **TOP 22 Masterpiec
 * [Vítimas do Estado](https://vitimas-do-estado.vercel.app/) — Registro de violações institucionais de direitos civis fundamentais.
 * [Ecosistema Selva](https://selva.artesdosul.com/) — Hub Sentinel central de projetos investigativos.
 * [Homelab Soberano](https://homelab.artesdosul.com/) — Infraestrutura de servidores e pipelines de processamento local.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://serie-demografica.vercel.app/](https://serie-demografica.vercel.app/).*

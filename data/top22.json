@@ -1,0 +1,405 @@
+[
+  {
+    "id": 1,
+    "title": "Ecosistema Selva",
+    "href": "https://selva.artesdosul.com/",
+    "image": "https://selva.artesdosul.com/og-image.webp",
+    "category": "Inteligência OSINT & Governança",
+    "stack": [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "PWA",
+      "JSON Schema"
+    ],
+    "description": "Hub central de monitoramento de todos os projetos de investigação do ecossistema com fontes auditáveis, rastreabilidade de artefatos e métricas de cobertura temática.",
+    "showcase_md": "_posts/showcase/2026-10-01-ecosistema-selva.md",
+    "highlight": "Sentinel do eixo investigativo e hub de governança",
+    "post_md": "_posts/2026-10-01-ecosistema-selva.md",
+    "local_image": "/assets/img/ecosistema-selva-hero.webp"
+  },
+  {
+    "id": 2,
+    "title": "Observatório Civil BR",
+    "href": "https://observatorio-civil-br.vercel.app/",
+    "image": "https://observatorio-civil-br.vercel.app/og-image.webp",
+    "category": "Dados Cívicos & Observatório",
+    "stack": [
+      "React",
+      "Vite",
+      "TailwindCSS",
+      "Chart.js",
+      "Markdown Engine"
+    ],
+    "description": "Hub investigativo open-source com mais de 225 artefatos catalogados, mapeamento de padrões estruturais (P01–P11) e fontes públicas verificáveis cobrindo corrupção, lawfare e crime institucional.",
+    "showcase_md": "_posts/showcase/2026-10-01-observatorio-civil-br.md",
+    "highlight": "225+ artefatos e padrões P01–P11 auditáveis",
+    "post_md": "_posts/2026-10-01-observatorio-civil-br.md",
+    "local_image": "/assets/img/observatorio-civil-br-hero.webp"
+  },
+  {
+    "id": 3,
+    "title": "JusMonitor",
+    "href": "https://jusmonitor.vercel.app/",
+    "image": "https://jusmonitor.vercel.app/og-jusmonitor.webp",
+    "category": "Jurimetria & Accountability",
+    "stack": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Lucide Icons",
+      "CC0 Corpus"
+    ],
+    "description": "Painel analítico de captura institucional do Judiciário e decisões de alto impacto, operando com evidências auditadas (R1–R7) e links diretos para diários oficiais e decisões judiciais.",
+    "showcase_md": "_posts/showcase/2026-10-01-jusmonitor.md",
+    "highlight": "Evidências R1–R7 e corpus público CC0",
+    "post_md": "_posts/2026-10-01-jusmonitor.md",
+    "local_image": "/assets/img/jusmonitor-hero.webp"
+  },
+  {
+    "id": 4,
+    "title": "Lawfare Timeline",
+    "href": "https://lawfare-timeline.vercel.app/",
+    "image": "https://lawfare-timeline.vercel.app/artigos/lawfare-timeline-projeto-xarticle-hero.webp",
+    "category": "Linha do Tempo & Dossiês",
+    "stack": [
+      "Next.js",
+      "React",
+      "TailwindCSS",
+      "Visx",
+      "Timeline Engine"
+    ],
+    "description": "Cronologia minuciosa sobre o uso estratégico do sistema legal com fins políticos, cruzando atores estatais, privados, decisões de tribunais superiores e repercussão internacional.",
+    "showcase_md": "_posts/showcase/2026-10-01-lawfare-timeline.md",
+    "highlight": "Linha do tempo interativa e dossiê multimídia",
+    "post_md": "_posts/2026-10-01-lawfare-timeline.md",
+    "local_image": "/assets/img/lawfare-hero.webp"
+  },
+  {
+    "id": 5,
+    "title": "Sabor Brazil",
+    "href": "https://sabor-brazil.vercel.app/",
+    "image": "https://sabor-brazil.vercel.app/sabor-brazil-hero.webp",
+    "category": "Regulação & Defesa do Consumidor",
+    "stack": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "JSON Database"
+    ],
+    "description": "Catálogo investigativo aberto centrado no princípio 'o nome não é a coisa', desmascarando rotulagem enganosa, assimetria regulatória, superfaturamentos e desvios industriais no mercado alimentício brasileiro.",
+    "showcase_md": "_posts/showcase/2026-10-01-sabor-brazil.md",
+    "highlight": "Transparência de rotulagem e integridade regulatória",
+    "post_md": "_posts/2026-10-01-sabor-brazil.md",
+    "local_image": "/assets/img/sabor-brazil-hero.webp"
+  },
+  {
+    "id": 6,
+    "title": "Série Demográfica",
+    "href": "https://serie-demografica.vercel.app/",
+    "image": "https://serie-demografica.vercel.app/artigos/serie-demografica-mortalidade-hero.webp",
+    "category": "Data Science & Saúde Pública",
+    "stack": [
+      "Next.js",
+      "Chart.js",
+      "Recharts",
+      "DATASUS/SIM API Parser"
+    ],
+    "description": "Observatório de mortalidade histórica (2014–2025) cruzando dados oficiais do SIM/DATASUS e Registro Civil para análise de anomalias epidemiológicas (dengue, gripe, miocardite e causas externas).",
+    "showcase_md": "_posts/showcase/2026-10-01-serie-demografica.md",
+    "highlight": "Série histórica 2014–2025 integrada ao DATASUS",
+    "post_md": "_posts/2026-10-01-serie-demografica.md",
+    "local_image": "/assets/img/serie-demografica-hero.webp"
+  },
+  {
+    "id": 7,
+    "title": "Vítimas do Estado",
+    "href": "https://vitimas-do-estado.vercel.app/",
+    "image": "https://vitimas-do-estado.vercel.app/vitimas-do-estado-og.webp",
+    "category": "Direitos Fundamentais & Accountability",
+    "stack": [
+      "Astro",
+      "React",
+      "TailwindCSS",
+      "GitHub Actions CI/CD"
+    ],
+    "description": "Registro aberto e versionado de falhas estatais com danos irreversíveis a cidadãos, estruturado em taxonomia rigorosa com base em dados transparentes.",
+    "showcase_md": "_posts/showcase/2026-10-01-vitimas-do-estado.md",
+    "highlight": "JSON versionado e taxonomia pública",
+    "post_md": "_posts/2026-10-01-vitimas-do-estado.md",
+    "local_image": "/assets/img/vitimas-do-estado-hero.webp"
+  },
+  {
+    "id": 8,
+    "title": "República Sequestrada",
+    "href": "https://republica-sequestrada-hub.vercel.app/",
+    "image": "https://republica-sequestrada-hub.vercel.app/republica-sequestrada-hub-og.webp",
+    "category": "Economia & Análise de Estado",
+    "stack": [
+      "Next.js",
+      "TailwindCSS",
+      "D3.js"
+    ],
+    "description": "Mapeamento interativo dos ciclos de extração de renda e corporativismo estatal no Brasil: 'A extração não muda de lado. Muda de nome.'",
+    "showcase_md": "_posts/showcase/2026-10-01-republica-sequestrada.md",
+    "highlight": "Mapeamento de redes de extração e rent-seeking",
+    "post_md": "_posts/2026-10-01-republica-sequestrada.md",
+    "local_image": "/assets/img/republica-sequestrada-hero.webp"
+  },
+  {
+    "id": 9,
+    "title": "O Dragão e a Onça",
+    "href": "https://odragaoeaonca.vercel.app/",
+    "image": "https://odragaoeaonca.vercel.app/dragao-onca.webp",
+    "category": "Geopolítica & Soberania",
+    "stack": [
+      "Next.js",
+      "React",
+      "TailwindCSS",
+      "Mapbox GL"
+    ],
+    "description": "Série documental e plataforma de dados sobre a relação bilateral Brasil–China, mapeando fluxos de commodities, infraestrutura crítica, terras raras e capítulos regionais.",
+    "showcase_md": "_posts/showcase/2026-10-01-o-dragao-e-a-onca.md",
+    "highlight": "Geopolítica Brasil × China em dados e mapas",
+    "post_md": "_posts/2026-10-01-o-dragao-e-a-onca.md",
+    "local_image": "/assets/img/o-dragao-e-a-onca-hero.webp"
+  },
+  {
+    "id": 10,
+    "title": "GoSurf Insights Central",
+    "href": "https://gosurf.site",
+    "image": "https://gosurf.site/gosurf-insights-central-hero-xarticle.webp",
+    "category": "Portal Editorial & Dossiês",
+    "stack": [
+      "Astro",
+      "TailwindCSS",
+      "MDX",
+      "Algolia Search"
+    ],
+    "description": "Portal moderno de publicações analíticas e ensaios aprofundados sobre geopolítica, economia global, segurança pública e soberania nacional.",
+    "showcase_md": "_posts/showcase/2026-10-01-gosurf-insights-central.md",
+    "highlight": "Publicação de alta performance e ensaios investigativos",
+    "post_md": "_posts/2026-10-01-gosurf-insights-central.md",
+    "local_image": "/assets/img/gosurf-hero.webp"
+  },
+  {
+    "id": 11,
+    "title": "Modelos Artes do Sul",
+    "href": "https://modelos.artesdosul.com/",
+    "image": "https://artesdosul.com/assets/img/projects/modelos-artesdosul.webp",
+    "category": "Design System & Vitrine Cyber-Growth",
+    "stack": [
+      "HTML5",
+      "Vanilla CSS",
+      "JavaScript Moderno",
+      "Glassmorphism"
+    ],
+    "description": "Vitrine conceitual com cases de dashboards interativos, componentes modulares e estética Cyber-Growth para aplicações web empresariais de alta conversão.",
+    "showcase_md": "_posts/showcase/2026-10-01-modelos-artesdosul.md",
+    "highlight": "Galeria de Masterpieces e Estética Cyber-Growth",
+    "post_md": "_posts/2026-10-01-modelos-artesdosul.md",
+    "local_image": "/assets/img/modelos-artesdosul-hero.webp"
+  },
+  {
+    "id": 12,
+    "title": "Sistema Horizonte",
+    "href": "https://horizonte.artesdosul.com/",
+    "image": "https://artesdosul.com/assets/img/projects/horizonte.webp",
+    "category": "Framework Estratégico & PWA",
+    "stack": [
+      "PWA",
+      "Offline-First",
+      "JSON Schema",
+      "Vanilla JS",
+      "Service Workers"
+    ],
+    "description": "Plataforma e hub operacional desenhado para orquestrar ciclos estratégicos 2026–2027, documentação em Markdown e suíte de utilitários em formato Progressive Web App.",
+    "showcase_md": "_posts/showcase/2026-10-01-sistema-horizonte.md",
+    "highlight": "PWA offline-first com governança por ciclo",
+    "post_md": "_posts/2026-10-01-sistema-horizonte.md",
+    "local_image": "/assets/img/sistema-horizonte-hero.webp"
+  },
+  {
+    "id": 13,
+    "title": "GridGuard",
+    "href": "https://modelos.artesdosul.com/apps/gridguard-landing.html",
+    "image": "https://artesdosul.com/assets/img/projects/gridguard.webp",
+    "category": "SaaS B2B & Eficiência Energética",
+    "stack": [
+      "HTML5",
+      "CSS Grid",
+      "Chart.js",
+      "IA Parser PDF"
+    ],
+    "description": "Sistema de gestão e auditoria de consumo energético para pequenas e médias empresas, transformando faturas de energia em diagnósticos de economia e alertas multifiliais.",
+    "showcase_md": "_posts/showcase/2026-10-01-gridguard.md",
+    "highlight": "Gestão de energia com IA da fatura ao dashboard",
+    "post_md": "_posts/2026-10-01-gridguard.md",
+    "local_image": "/assets/img/gridguard-hero.webp"
+  },
+  {
+    "id": 14,
+    "title": "SaaS Launchpad",
+    "href": "https://modelos.artesdosul.com/apps/saas-launchpad.html",
+    "image": "https://artesdosul.com/assets/img/projects/saas-launchpad.webp",
+    "category": "Modelagem de Negócios Digitais",
+    "stack": [
+      "Vanilla JS",
+      "CSS Glassmorphism",
+      "LocalStorage",
+      "Exportador PDF"
+    ],
+    "description": "Workspace interativo para validação rápida de MVPs: Lean Canvas, calculadora de unit economics, projeção de CAC/LTV e checklist de 5 passos para lançamento.",
+    "showcase_md": "_posts/showcase/2026-10-01-saas-launchpad.md",
+    "highlight": "Hub completo de modelagem, validação e ROI SaaS",
+    "post_md": "_posts/2026-10-01-saas-launchpad.md",
+    "local_image": "/assets/img/saas-launchpad-hero.webp"
+  },
+  {
+    "id": 15,
+    "title": "DevStudio Alpha",
+    "href": "https://modelos.artesdosul.com/apps/devstudio-alpha.html",
+    "image": "https://artesdosul.com/assets/img/projects/devstudio-alpha.webp",
+    "category": "DevTools & Engenharia",
+    "stack": [
+      "Vanilla JS",
+      "Web Crypto API",
+      "Regex Engines",
+      "UI Terminal"
+    ],
+    "description": "Suíte tudo-em-um para desenvolvedores: formatador e validador JSON, gerador de hashes criptográficos, validadores de documentos brasileiros (CPF/CNPJ), codificador Base64 e paletas CSS.",
+    "showcase_md": "_posts/showcase/2026-10-01-devstudio-alpha.md",
+    "highlight": "Oficina fullscreen com utilitários criptográficos e BR",
+    "post_md": "_posts/2026-10-01-devstudio-alpha.md",
+    "local_image": "/assets/img/devstudio-alpha-hero.webp"
+  },
+  {
+    "id": 16,
+    "title": "Intel & Strategy",
+    "href": "https://modelos.artesdosul.com/apps/intel-strategy.html",
+    "image": "https://artesdosul.com/assets/img/projects/intel-strategy.webp",
+    "category": "Situation Room & OSINT",
+    "stack": [
+      "Dark Mode UI",
+      "High-Density CSS Grid",
+      "Realtime Feeds",
+      "PWA"
+    ],
+    "description": "Dashboard de inteligência estratégica e monitoramento de cenários críticos em tela cheia, integrando feed OSINT, matriz de risco e princípios clássicos de estratégia.",
+    "showcase_md": "_posts/showcase/2026-10-01-intel-strategy.md",
+    "highlight": "Situation Room 4.0 em shell fullscreen de alta densidade",
+    "post_md": "_posts/2026-10-01-intel-strategy.md",
+    "local_image": "/assets/img/intel-strategy-hero.webp"
+  },
+  {
+    "id": 17,
+    "title": "Life OS",
+    "href": "https://lifeos-chi.vercel.app/",
+    "image": "/assets/img/lifeos-chi.vercel.app.webp",
+    "category": "Produtividade & Gestão Pessoal",
+    "stack": [
+      "Next.js",
+      "React",
+      "TailwindCSS",
+      "IndexedDB"
+    ],
+    "description": "Sistema operacional pessoal para gestão de metas, rotinas, tarefas, hábitos diários e alinhamento de visão de longo prazo com interface minimalista inspirada no Notion/Linear.",
+    "showcase_md": "_posts/showcase/2026-10-01-life-os.md",
+    "highlight": "Gestão integrada de projetos, hábitos e visão pessoal",
+    "post_md": "_posts/2026-10-01-life-os.md",
+    "local_image": "/assets/img/lifeos-chi.vercel.app.webp"
+  },
+  {
+    "id": 18,
+    "title": "Transparentia Hub",
+    "href": "https://modelos.artesdosul.com/apps/portal-transparencia.html",
+    "image": "https://artesdosul.com/assets/img/projects/portal-transparencia.webp",
+    "category": "Transparência Fiscal & Finanças Públicas",
+    "stack": [
+      "HTML5",
+      "Vanilla JS",
+      "Chart.js",
+      "Data Grid"
+    ],
+    "description": "Dashboard de análise de disparidades orçamentárias regionais e privilégios remuneratórios no setor público brasileiro, facilitando a auditoria por cidadãos e pesquisadores.",
+    "showcase_md": "_posts/showcase/2026-10-01-transparentia-hub.md",
+    "highlight": "Inteligência fiscal e auditoria de disparidades públicas",
+    "post_md": "_posts/2026-10-01-transparentia-hub.md",
+    "local_image": "/assets/img/transparentia-hub-hero.webp"
+  },
+  {
+    "id": 19,
+    "title": "Biblioteca Olavo de Carvalho",
+    "href": "https://olavodecarvalho.vercel.app/",
+    "image": "https://olavodecarvalho.vercel.app/assets/img/olavobiblioteca.jpg",
+    "category": "Acervo Digital & Filosofia",
+    "stack": [
+      "Next.js",
+      "React",
+      "TailwindCSS",
+      "Fulltext Search"
+    ],
+    "description": "Catálogo organizado e acervo bibliográfico cobrindo mais de quatro décadas de ensaios, livros, conferências e artigos do filósofo e ensaísta brasileiro.",
+    "showcase_md": "_posts/showcase/2026-10-01-biblioteca-olavo-de-carvalho.md",
+    "highlight": "Mais de 40 livros e centenas de ensaios catalogados",
+    "post_md": "_posts/2026-10-01-biblioteca-olavo-de-carvalho.md",
+    "local_image": "/assets/img/olavo-de-carvalho-hero.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Floripa Surf Club & Rede FECESS SC",
+    "href": "http://floripasurfclub.com",
+    "image": "https://www.artesdosul.com/images/thumb/floripasurfclub.png",
+    "category": "Esporte, Turismo & Federação",
+    "stack": [
+      "Jekyll",
+      "HTML5",
+      "CSS3 Responsivo",
+      "PHP",
+      "WhatsApp API"
+    ],
+    "description": "Plataforma institucional para uma das escolas de surf pioneiras de Santa Catarina (Praia Mole / Barra da Lagoa) e portal da Federação Catarinense de Escolas de Surf e SUP.",
+    "showcase_md": "_posts/showcase/2026-10-01-floripa-surf-club.md",
+    "highlight": "Tradição pioneira no surf catarinense e ecoturismo",
+    "post_md": "_posts/2026-10-01-floripa-surf-club.md",
+    "local_image": "/assets/img/timeline-surf-santa-catarina-hero.png"
+  },
+  {
+    "id": 21,
+    "title": "Os Filhos da Terra",
+    "href": "https://filhosdaterra.artesdosul.com/",
+    "image": "/assets/img/filhosdaterra-hero.jpg",
+    "category": "Manifesto Ecológico & PWA Imersivo",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "Web Audio API",
+      "Canvas PWA",
+      "LocalStorage"
+    ],
+    "description": "Celebração do manifesto ecológico de 1854 do Chefe Seattle em 8 movimentos meditativos, paisagem sonora em 432Hz procedural, fogueira de pacto e certificados em alta resolução gerados via Canvas.",
+    "showcase_md": "_posts/showcase/2026-10-01-filhos-da-terra.md",
+    "highlight": "Web Audio API 432Hz, 8 movimentos da Carta e Cerimonial da Aliança",
+    "post_md": "_posts/2026-10-01-filhos-da-terra.md",
+    "local_image": "/assets/img/filhosdaterra-hero.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Mãe Maria",
+    "href": "https://mae-maria.artesdosul.com/",
+    "image": "/assets/img/mae-maria-xarticle-hero.webp",
+    "category": "Liturgia Mariana & Devoção PWA",
+    "stack": [
+      "Vanilla JS",
+      "PWA",
+      "Service Worker",
+      "Web Audio",
+      "Offline-First"
+    ],
+    "description": "Santuário digital católico e Progressive Web App autônomo com Santo Terço guiado pelos mistérios do dia, ladainhas tradicionais completas em português e latim e história das aparições.",
+    "showcase_md": "_posts/showcase/2026-10-01-mae-maria.md",
+    "highlight": "Santo Terço interativo, liturgia offline-first e devoção tradicional",
+    "post_md": "_posts/2026-10-01-mae-maria.md",
+    "local_image": "/assets/img/mae-maria-xarticle-hero.webp"
+  }
+]

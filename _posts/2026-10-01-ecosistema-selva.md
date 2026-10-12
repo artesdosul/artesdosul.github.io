@@ -3,7 +3,8 @@ layout: post
 title: "Ecosistema Selva • Hub Sentinel de Inteligência OSINT & Governança de Portfólio"
 subtitle: "Plataforma central de monitoramento de projetos investigativos com rastreabilidade de artefatos e auditoria de fontes públicas"
 description: "Hub central de monitoramento de todos os projetos de investigação do ecossistema Artes do Sul com fontes auditáveis, rastreabilidade de artefatos e métricas de cobertura temática."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-ecosistema-selva/
 cover-img: /assets/img/ecosistema-selva-hero.webp
 thumbnail-img: /assets/img/ecosistema-selva-hero.webp
 share-img: /assets/img/ecosistema-selva-hero.webp
@@ -73,7 +74,7 @@ O projeto **Ecosistema Selva** integra o seleto grupo dos **TOP 22 Masterpieces*
 * [Lawfare Timeline](https://lawfare-timeline.vercel.app/) — Cronologia interativa sobre o uso estratégico do sistema legal com fins políticos.
 * [República Sequestrada](https://republica-sequestrada-hub.vercel.app/) — Mapeamento dos ciclos de extração de renda e corporativismo estatal.
 * [Central de Suporte Artes do Sul](https://suporte.artesdosul.com/) — Canal oficial de helpdesk e chamados com protocolo anti-bot.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://selva.artesdosul.com/](https://selva.artesdosul.com/).*

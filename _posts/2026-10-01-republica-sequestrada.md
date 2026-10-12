@@ -3,7 +3,8 @@ layout: post
 title: "República Sequestrada • A Máquina de Extração de Renda & Corporativismo Estatal"
 subtitle: "Mapeamento das redes de rent-seeking, cartéis e a falsa oposição política no Brasil contemporâneo"
 description: "Mapeamento interativo dos ciclos de extração de renda e corporativismo estatal no Brasil: 'A extração não muda de lado. Muda de nome.' Análise em D3.js e Next.js."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-republica-sequestrada/
 cover-img: /assets/img/republica-sequestrada-hero.webp
 thumbnail-img: /assets/img/republica-sequestrada-hero.webp
 share-img: /assets/img/republica-sequestrada-hero.webp
@@ -73,7 +74,7 @@ O projeto **República Sequestrada** integra o seleto grupo dos **TOP 22 Masterp
 * [JusMonitor](https://jusmonitor.vercel.app/) — Jurimetria sobre o custo astronômico do Judiciário brasileiro.
 * [O Dragão e a Onça](https://odragaoeaonca.vercel.app/) — Impacto da geopolítica de matérias-primas e dependência externa.
 * [Ecosistema Selva](https://selva.artesdosul.com/) — Hub Sentinel central do eixo investigativo.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://republica-sequestrada-hub.vercel.app/](https://republica-sequestrada-hub.vercel.app/).*

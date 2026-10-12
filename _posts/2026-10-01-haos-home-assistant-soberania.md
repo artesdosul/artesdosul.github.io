@@ -3,7 +3,8 @@ layout: post
 title: "HAOS Hub • Home Assistant OS & Soberania Residencial Local"
 subtitle: "Engenharia de automação doméstica 100% privada com Proxmox, Zigbee2MQTT, ESPHome e tolerância a falhas"
 description: "Enciclopédia e guias técnicos de automação residencial soberana: Home Assistant OS, Proxmox VE, redes mesh Zigbee2MQTT, nobreak inteligente e privacidade local."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-haos-home-assistant-soberania/
 cover-img: /assets/img/haos-hero.jpg
 thumbnail-img: /assets/img/haos-hero.jpg
 share-img: /assets/img/haos-hero.jpg

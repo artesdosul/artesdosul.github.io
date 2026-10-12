@@ -3,7 +3,8 @@ layout: post
 title: "O Dragão e a Onça • Geopolítica Brasil–China & Soberania Nacional"
 subtitle: "Série documental e mapas interativos sobre fluxos de commodities, infraestrutura crítica e terras raras"
 description: "Série documental e plataforma de dados sobre a relação bilateral Brasil–China, mapeando fluxos de commodities, infraestrutura crítica, terras raras e capítulos regionais."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-o-dragao-e-a-onca/
 cover-img: /assets/img/o-dragao-e-a-onca-hero.webp
 thumbnail-img: /assets/img/o-dragao-e-a-onca-hero.webp
 share-img: /assets/img/o-dragao-e-a-onca-hero.webp
@@ -73,7 +74,7 @@ O projeto **O Dragão e a Onça** integra o seleto grupo dos **TOP 22 Masterpiec
 * [Intel & Strategy](https://modelos.artesdosul.com/apps/intel-strategy.html) — Cockpit OSINT e matriz de risco estratégico.
 * [Biblioteca Olavo de Carvalho](https://olavodecarvalho.vercel.app/) — Acervo sobre geopolítica do globalismo e revolução cultural.
 * [Portal Artes do Sul](https://artesdosul.com/) — Soluções independentes de internet e soberania.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://odragaoeaonca.vercel.app/](https://odragaoeaonca.vercel.app/).*

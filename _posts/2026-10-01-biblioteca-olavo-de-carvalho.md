@@ -3,7 +3,8 @@ layout: post
 title: "Biblioteca Olavo de Carvalho • Catálogo Unificado da Obra do Filósofo Brasileiro"
 subtitle: "Mais de quatro décadas de livros, ensaios, conferências e apostilas do criador do COF"
 description: "Catálogo organizado e acervo bibliográfico cobrindo mais de quatro décadas de ensaios, livros, conferências e artigos do filósofo e ensaísta brasileiro."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-biblioteca-olavo-de-carvalho/
 cover-img: /assets/img/olavo-de-carvalho-hero.jpg
 thumbnail-img: /assets/img/olavo-de-carvalho-hero.jpg
 share-img: /assets/img/olavo-de-carvalho-hero.jpg
@@ -73,7 +74,7 @@ O projeto **Biblioteca Olavo de Carvalho** integra o seleto grupo dos **TOP 22 M
 * [Os Filhos da Terra](https://filhosdaterra.artesdosul.com/) — Manifesto sobre a reverência sagrada à criação e teia da vida.
 * [Life OS](https://lifeos-chi.vercel.app/) — Sistema para organização da rotina e disciplinas de estudo pessoal.
 * [Portal Artes do Sul](https://artesdosul.com/) — Soluções de internet com arte, propósito e perenidade.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://olavodecarvalho.vercel.app/](https://olavodecarvalho.vercel.app/).*

@@ -3,7 +3,8 @@ layout: post
 title: "Vítimas do Estado • Memorial Público & Registro Versionado de Danos Irreversíveis"
 subtitle: "Catálogo estruturado de falhas estatais, abusos de poder e arbitrariedades contra cidadãos brasileiros"
 description: "Registro aberto e versionado de falhas estatais com danos irreversíveis a cidadãos, estruturado em taxonomia rigorosa com base em dados transparentes e fontes públicas."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-vitimas-do-estado/
 cover-img: /assets/img/vitimas-do-estado-hero.webp
 thumbnail-img: /assets/img/vitimas-do-estado-hero.webp
 share-img: /assets/img/vitimas-do-estado-hero.webp
@@ -73,7 +74,7 @@ O projeto **Vítimas do Estado** integra o seleto grupo dos **TOP 22 Masterpiece
 * [Observatório Civil BR](https://observatorio-civil-br.vercel.app/) — Hub analítico com mais de 225 artefatos auditados.
 * [República Sequestrada](https://republica-sequestrada-hub.vercel.app/) — Análise do corporativismo e da impunidade estatal.
 * [Ecosistema Selva](https://selva.artesdosul.com/) — Central Sentinel integradora dos portais investigativos.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://vitimas-do-estado.vercel.app/](https://vitimas-do-estado.vercel.app/).*

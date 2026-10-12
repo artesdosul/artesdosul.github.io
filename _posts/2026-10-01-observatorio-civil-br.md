@@ -3,7 +3,8 @@ layout: post
 title: "Observatório Civil BR • Hub Cívico de Auditoria & Padrões Estruturais P01–P11"
 subtitle: "Mais de 225 artefatos catalogados e fontes oficiais cobrindo corrupção, lawfare e captura do Estado"
 description: "Hub investigativo open-source com mais de 225 artefatos catalogados, mapeamento de padrões estruturais (P01–P11) e fontes públicas verificáveis cobrindo corrupção e crime institucional."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-observatorio-civil-br/
 cover-img: /assets/img/observatorio-civil-br-hero.webp
 thumbnail-img: /assets/img/observatorio-civil-br-hero.webp
 share-img: /assets/img/observatorio-civil-br-hero.webp
@@ -73,7 +74,7 @@ O projeto **Observatório Civil BR** integra o seleto grupo dos **TOP 22 Masterp
 * [Vítimas do Estado](https://vitimas-do-estado.vercel.app/) — Cadastro aberto de danos irreversíveis sofridos por cidadãos em virtude de atos de exceção.
 * [Transparentia Hub](https://modelos.artesdosul.com/apps/portal-transparencia.html) — Análise de disparidades orçamentárias e privilégios salariais no setor público.
 * [Série Demográfica](https://serie-demografica.vercel.app/) — Painel de mortalidade histórica e correlação epidemiológica DATASUS.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://observatorio-civil-br.vercel.app/](https://observatorio-civil-br.vercel.app/).*

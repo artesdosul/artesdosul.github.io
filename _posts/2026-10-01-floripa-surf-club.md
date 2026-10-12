@@ -3,7 +3,8 @@ layout: post
 title: "Floripa Surf Club & Rede FECESS SC • Pioneirismo nas Ondas & Tradição Catarina"
 subtitle: "História, pedagogia do surf, ecoturismo e a Federação Catarinense de Escolas de Surf e SUP"
 description: "Plataforma institucional para uma das escolas de surf pioneiras de Santa Catarina (Praia Mole / Barra da Lagoa) e portal da Federação Catarinense de Escolas de Surf e SUP."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-floripa-surf-club/
 cover-img: /assets/img/timeline-surf-santa-catarina-hero.png
 thumbnail-img: /assets/img/timeline-surf-santa-catarina-hero.png
 share-img: /assets/img/timeline-surf-santa-catarina-hero.png
@@ -73,7 +74,7 @@ O projeto **Floripa Surf Club & Rede FECESS SC** integra o seleto grupo dos **TO
 * [Central de Suporte Artes do Sul](https://suporte.artesdosul.com/) — Central técnica e atendimento oficial via WhatsApp SC/SP.
 * [Modelos Artes do Sul](https://modelos.artesdosul.com/) — Galeria de aplicações e vitrine Cyber-Growth.
 * [Portal Artes do Sul](https://artesdosul.com/) — Raízes catarinenses e desenvolvimento de projetos digitais com alma.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [http://floripasurfclub.com](http://floripasurfclub.com).*

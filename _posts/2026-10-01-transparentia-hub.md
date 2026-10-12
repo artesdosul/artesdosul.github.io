@@ -3,7 +3,8 @@ layout: post
 title: "Transparentia Hub • Inteligência Fiscal & Auditoria de Disparidades Públicas"
 subtitle: "Análise interativa de privilégios remuneratórios corporativos e distorções orçamentárias no setor público"
 description: "Dashboard de análise de disparidades orçamentárias regionais e privilégios remuneratórios no setor público brasileiro, facilitando a auditoria por cidadãos e pesquisadores."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-transparentia-hub/
 cover-img: /assets/img/transparentia-hub-hero.webp
 thumbnail-img: /assets/img/transparentia-hub-hero.webp
 share-img: /assets/img/transparentia-hub-hero.webp
@@ -73,7 +74,7 @@ O projeto **Transparentia Hub** integra o seleto grupo dos **TOP 22 Masterpieces
 * [Observatório Civil BR](https://observatorio-civil-br.vercel.app/) — Catálogo de mais de 225 artefatos auditados de corrupção.
 * [GridGuard](https://modelos.artesdosul.com/apps/gridguard-landing.html) — Eficiência e auditoria tarifária corporativa.
 * [Portal Artes do Sul](https://artesdosul.com/) — Ecossistema de engenharia web soberana e de alto padrão.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://modelos.artesdosul.com/apps/portal-transparencia.html](https://modelos.artesdosul.com/apps/portal-transparencia.html).*

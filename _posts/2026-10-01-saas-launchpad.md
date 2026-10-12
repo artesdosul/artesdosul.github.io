@@ -3,7 +3,8 @@ layout: post
 title: "SaaS Launchpad • Workspace de Modelagem, Unit Economics & Validação de MVPs"
 subtitle: "Calculadora de CAC, LTV, Churn e Payback integrada a Lean Canvas e checklist de lançamento em 5 passos"
 description: "Workspace interativo para validação rápida de MVPs: Lean Canvas, calculadora de unit economics, projeção de CAC/LTV e checklist de 5 passos para lançamento."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-saas-launchpad/
 cover-img: /assets/img/saas-launchpad-hero.webp
 thumbnail-img: /assets/img/saas-launchpad-hero.webp
 share-img: /assets/img/saas-launchpad-hero.webp
@@ -73,7 +74,7 @@ O projeto **SaaS Launchpad** integra o seleto grupo dos **TOP 22 Masterpieces** 
 * [Sistema Horizonte](https://horizonte.artesdosul.com/) — Framework de governança de ciclos estratégicos e OKRs.
 * [Modelos Artes do Sul](https://modelos.artesdosul.com/) — Biblioteca de interfaces visuais Cyber-Growth para produtos web.
 * [Central de Suporte Artes do Sul](https://suporte.artesdosul.com/) — Canais oficiais de atendimento técnico.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://modelos.artesdosul.com/apps/saas-launchpad.html](https://modelos.artesdosul.com/apps/saas-launchpad.html).*

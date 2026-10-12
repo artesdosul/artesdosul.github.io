@@ -3,7 +3,8 @@ layout: post
 title: "Sistema Horizonte • Framework Operacional & Hub Estratégico PWA 2026–2027"
 subtitle: "Plataforma offline-first para governança de ciclos, documentação viva e produtividade soberana"
 description: "Plataforma e hub operacional desenhado para orquestrar ciclos estratégicos 2026–2027, documentação em Markdown e suíte de utilitários em formato Progressive Web App."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-sistema-horizonte/
 cover-img: /assets/img/sistema-horizonte-hero.webp
 thumbnail-img: /assets/img/sistema-horizonte-hero.webp
 share-img: /assets/img/sistema-horizonte-hero.webp
@@ -73,7 +74,7 @@ O projeto **Sistema Horizonte** integra o seleto grupo dos **TOP 22 Masterpieces
 * [SaaS Launchpad](https://modelos.artesdosul.com/apps/saas-launchpad.html) — Calculadora de unit economics e lançamento de startups.
 * [Central de Suporte Artes do Sul](https://suporte.artesdosul.com/) — Helpdesk técnico oficial com proteção anti-bot.
 * [Portal Artes do Sul](https://artesdosul.com/) — Soluções de internet, tecnologia e design soberano.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://horizonte.artesdosul.com/](https://horizonte.artesdosul.com/).*

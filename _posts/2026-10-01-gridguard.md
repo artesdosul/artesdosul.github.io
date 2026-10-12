@@ -3,7 +3,8 @@ layout: post
 title: "GridGuard • SaaS B2B de Gestão Energética & Auditoria Tarifária com IA"
 subtitle: "Da fatura de energia ao dashboard interativo: economia real e prevenção de multas para pequenas e médias empresas"
 description: "Sistema de gestão e auditoria de consumo energético para pequenas e médias empresas, transformando faturas de energia em diagnósticos de economia e alertas multifiliais."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-gridguard/
 cover-img: /assets/img/gridguard-hero.webp
 thumbnail-img: /assets/img/gridguard-hero.webp
 share-img: /assets/img/gridguard-hero.webp
@@ -73,7 +74,7 @@ O projeto **GridGuard** integra o seleto grupo dos **TOP 22 Masterpieces** do ec
 * [Modelos Artes do Sul](https://modelos.artesdosul.com/) — Catálogo de interfaces Masterpiece e aplicações corporativas.
 * [Homelab Soberano](https://homelab.artesdosul.com/) — Monitoramento de consumo e automação predial local.
 * [Portal Artes do Sul](https://artesdosul.com/) — Tecnologia web de alta performance com arte.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://modelos.artesdosul.com/apps/gridguard-landing.html](https://modelos.artesdosul.com/apps/gridguard-landing.html).*

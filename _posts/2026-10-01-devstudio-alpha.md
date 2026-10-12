@@ -3,7 +3,8 @@ layout: post
 title: "DevStudio Alpha • Oficina Fullscreen de Utilitários Técnicos & Criptografia Local"
 subtitle: "Formatador JSON, hashes criptográficos, geradores/validadores de CPF/CNPJ e paletas CSS no navegador"
 description: "Suíte tudo-em-um para desenvolvedores: formatador e validador JSON, gerador de hashes criptográficos, validadores de documentos brasileiros, Base64 e CSS."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-devstudio-alpha/
 cover-img: /assets/img/devstudio-alpha-hero.webp
 thumbnail-img: /assets/img/devstudio-alpha-hero.webp
 share-img: /assets/img/devstudio-alpha-hero.webp
@@ -73,7 +74,7 @@ O projeto **DevStudio Alpha** integra o seleto grupo dos **TOP 22 Masterpieces**
 * [Modelos Artes do Sul](https://modelos.artesdosul.com/) — Galeria de masterpieces e componentes modulares de interface.
 * [Central de Suporte Artes do Sul](https://suporte.artesdosul.com/) — Helpdesk oficial com barreiras anti-bot e alta segurança.
 * [Portal Artes do Sul](https://artesdosul.com/) — Soluções independentes de tecnologia e internet.
-* [TOP 22 Masterpieces Artes do Sul](/showcase/2026-10-01-top-22-masterpieces-artesdosul.html) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
+* [TOP 22 Masterpieces Artes do Sul]({{ '/2026-10-01-top-22-masterpieces-artesdosul/' | relative_url }}) — Visão geral da curadoria dos 22 projetos de ápice do ecossistema.
 
 ---
 *Artigo catalogado na curadoria oficial dos TOP 22 Projetos de Artes do Sul. Explore a aplicação no ar em [https://modelos.artesdosul.com/apps/devstudio-alpha.html](https://modelos.artesdosul.com/apps/devstudio-alpha.html).*

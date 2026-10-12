@@ -3,7 +3,8 @@ layout: post
 title: "Central de Suporte & Chamados • Atendimento Seguro & Sentinela Anti-Bot"
 subtitle: "Helpdesk técnico oficial Artes do Sul com protocolo imediato, roteamento WhatsApp SC/SP e blindagem anti-robôs"
 description: "Central oficial de helpdesk e chamados técnicos de Artes do Sul: protocolo instantâneo #ADS-2026-XXXX, 4 camadas de proteção anti-robô e integração WhatsApp."
-date: 2026-10-01 00:00:00+00:00
+date: 2026-10-01 12:00:00 -03:00
+permalink: /2026-10-01-central-de-suporte/
 cover-img: /assets/img/suporte-hero.jpg
 thumbnail-img: /assets/img/suporte-hero.jpg
 share-img: /assets/img/suporte-hero.jpg
